@@ -2,9 +2,13 @@
 
 > 个人结合github上各位大神分享的资源进行了简单的汇总整理，每一个条目下面都有丰富的资料，是前端学习、工作的好帮手。
 
-**说明:** 整理有不当之处, 欢迎 pr 或提出 issue。
+**说明:** 整理有不当之处, 欢迎 [pr](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource/pulls) 或提出 [issue](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource/issues)。
+
+![](http://ww3.sinaimg.cn/large/66101050jw1f78o4duzv6j20sg0eut9y.jpg)
 
 **关于我：** 微博: <a href='http://weibo.com/helloqingfeng' target='_blank'>@青丰与名月</a>
+
+
 
 <br>
 
@@ -23,7 +27,7 @@
 
 阅读地址：https://dwqs.gitbooks.io/frontenddevhandbook/content/
 
-资源下载: <a href='http://pan.baidu.com/s/1c0frhIS' target='_blank'>pdf</a>&nbsp;&nbsp;<a href='https://www.gitbook.com/book/dwqs/frontenddevhandbook/details' target='_blank'>mobi</a>
+资源下载: <a href='http://pan.baidu.com/s/1c0frhIS' target='_blank'>pdf</a>  <a href='https://www.gitbook.com/book/dwqs/frontenddevhandbook/details' target='_blank'>mobi</a>
 
 ## [前端开发笔记本](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource/tree/master/03-FEND_Note-master)
 
@@ -69,31 +73,31 @@
 源地址：https://github.com/hawx1993/github-FE-project
 
 
-## #前端开发相关的优秀网站、博客、以及活跃开发者
+## [前端开发相关的优秀网站、博客、以及活跃开发者](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource/tree/master/09-front-end-collect-master)
 
 作者：Luo Lei https://github.com/foru17
 
 源地址：https://github.com/foru17/front-end-collect
 
-## #国内知名 IT 公司前端团队 (排名不分先后)
+## [国内知名 IT 公司前端团队 (排名不分先后)](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource/tree/master/08-github-FE-project-master)
 
 作者：Mingdong Luo https://github.com/mdluo
 
 源地址：https://github.com/mdluo/awesome-fe-team
 
-## #关于程序员读书-大牛们的书单汇总
+## [关于程序员读书-大牛们的书单汇总](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource/tree/master/11-about-reading)
 
 作者：Mingdong Luo https://github.com/mdluo
 
 源地址：https://mdluo.github.io/blog/about-reading/
 
-## #Github个人收集的优秀JavaScript项目
+## [Github个人收集的优秀JavaScript项目](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource/tree/master/12-JavaScript-project)
 
 作者：Daiyichen https://github.com/Daiyichen
 
 源地址：https://github.com/Daiyichen/Front-end-tutorial/blob/master/project.md
 
-## #免费的计算机编程类中文书籍
+## [免费的计算机编程类中文书籍](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource/tree/master/13-free-programming-books-zh_CN-master)
 
 作者：迷渡 https://github.com/justjavac
 
@@ -101,31 +105,31 @@
 
 阅读地址：http://siberiawolf.com/free_programming/index.html
 
-## #前端开发书签
+## [前端开发书签](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource/tree/master/14-frontend-dev-bookmarks-master)
 
 作者：张正雄 https://github.com/zzxadi
 
 源地址：https://github.com/zzxadi/frontend-dev-bookmarks
 
-## #收集有趣的、富有交互的前端教程
+## [收集有趣的、富有交互的前端教程](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource/tree/master/15-fun-front-end-tutorials-master)
 
 作者：JiangShui Yu https://github.com/yujiangshui
 
 源地址：https://github.com/yujiangshui/fun-front-end-tutorials
 
-## #前端代码审查清单
+## [前端代码审查清单](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource/tree/master/16-front-end-code-checklist-master)
 
 作者：JiangShui Yu https://github.com/yujiangshui
 
 源地址：https://github.com/yujiangshui/front-end-code-checklist
 
-## #移动前端资源整理
+## [移动前端资源整理](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource/tree/master/17-Mobile-front-end-tutorial-master)
 
 作者：Ionic China https://github.com/IonicChina
 
 源地址：https://github.com/IonicChina/Mobile-front-end-tutorial
 
-## #适用于小团队的前端规范
+## [适用于小团队的前端规范](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource/tree/master/18-fun-front-end-tutorials-master)
 
 作者：hzlzh https://github.com/hzlzh
 
@@ -139,26 +143,26 @@
 
 <br>
 
-## #关于程序员求职简历汇总（包含一些优秀简历示例）
+## [关于程序员求职简历汇总（包含一些优秀简历示例）](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource/tree/master/19-about-resume)
 
 作者：Mingdong Luo https://github.com/mdluo
 
 源地址：https://mdluo.github.io/blog/about-resume/
 
-## #关于前端面试文章汇总
+## [关于前端面试文章汇总](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource/tree/master/20-about-front-end-interview)
 
 作者：Mingdong Luo https://github.com/mdluo
 
 源地址：https://mdluo.github.io/blog/about-front-end-interview/
 
-## #前端面试问题集锦 
+## [前端面试问题集锦](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource/tree/master/21-Front-end-Interview-questions) 
 
 作者： trigkit4    https://github.com/hawx1993
 
 源地址：https://github.com/hawx1993/Front-end-Interview-questions
 
 
-## # 前端工作面试问题
+## [前端工作面试问题](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource/tree/master/22-Front-end-Developer-Interview-Questions-master)
 
 作者：H5BP https://github.com/h5bp
 
@@ -167,7 +171,7 @@
 源地址：https://github.com/h5bp/Front-end-Developer-Interview-Questions
 
 
-## #收集的前端面试题和答案
+## [收集的前端面试题和答案](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource/tree/master/23-FE-interview-master)
 
 作者：qiu https://github.com/qiu-deqing
 
@@ -176,3 +180,5 @@
 ---
 
 **声明：** 版权归原作者所有，我只是搬运工。
+
+头图来源：[课多周刊](https://www.w3crange.com/)
