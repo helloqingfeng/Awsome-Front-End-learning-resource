@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>垂直居中</title>
+</head>
+
+<body>
+
+  <style media="screen">
+    .box {
+      width: 100px;
+      height: 100px;
+      background: #859A00;
+    }
+  </style>
+
+  <div class="demo0-wrap">
+    <div class="demo0-parent">
+      <div class="demo0-child box"></div>
+    </div>
+  </div>
+
+  <style media="screen">
+    .demo0-wrap {
+      height: 100vh;
+      display: table;
+    }
+    .demo0-parent {
+      display: table-cell;
+      vertical-align: middle;
+    }
+    .demo0-child {
+      display: table-cell;
+      vertical-align: middle;
+    }
+  </style>
+</body>
+
+</html>

@@ -1,0 +1,1119 @@
+{
+	"name": "Web Front End",
+	"languages": {
+		"zh-cn": "Web前端开发技术栈",
+		"es-es": "Web Front End"
+	},
+	"children": [{
+		"name": "Browser",
+		"languages": {
+			"zh-cn": "浏览器",
+			"es-es": "Navegadores"
+		},
+		"children": [{
+			"name": "Internet Explorer",
+			"url": "http://windows.microsoft.com/en-us/internet-explorer/download-ie"
+		}, {
+			"name": "Chrome",
+			"url": "http://www.google.com/chrome/"
+		}, {
+			"name": "Firefox",
+			"url": "https://www.mozilla.org/"
+		}, {
+			"name": "Safari",
+			"url": "http://www.apple.com/safari/"
+		}, {
+			"name": "Opera",
+			"url": "http://www.opera.com/"
+		}, {
+			"name": "Edge",
+			"url": "https://www.microsoft.com/en-us/windows/microsoft-edge"
+		}, {
+			"name": "Netscape ;-)",
+			"url": "https://en.wikipedia.org/wiki/Netscape"
+		}]
+	}, {
+		"name": "Protocol",
+		"languages": {
+			"zh-cn": "协议",
+			"es-es": "Protocolos"
+		},
+		"children": [{
+			"name": "HTTP/1.1",
+			"url": "https://www.ietf.org/rfc/rfc2616.txt",
+			"children": [{
+				"name": "URI",
+				"languages": {
+					"zh-cn": "链接"
+				}
+			}, {
+				"name": "Session",
+				"languages": {
+					"zh-cn": "会话",
+					"es-es": "Sesión"
+				}
+			}, {
+				"name": "Authentication",
+				"languages": {
+					"zh-cn": "授权",
+					"es-es": "Autenticación"
+				}
+			}, {
+				"name": "Request",
+				"languages": {
+					"zh-cn": "请求",
+					"es-es": "Petición"
+				}
+			}, {
+				"name": "Response",
+				"languages": {
+					"zh-cn": "响应",
+					"es-es": "Respuesta"
+				}
+			}]
+		}, {
+			"name": "HTTP/2",
+			"url": "https://en.wikipedia.org/wiki/HTTP/2",
+			"children": [{
+				"name": "Compression",
+				"languages": {
+					"zh-cn": "压缩",
+					"es-es": "Compresión"
+				}
+			}, {
+				"name": "Minification",
+				"languages": {
+					"zh-cn": "打包",
+					"es-es": "Minificación"
+				}
+			}, {
+				"name": "Server Push",
+				"languages": {
+					"zh-cn": "服务器端推送"
+				}
+			}]
+		}, {
+			"name": "WebSocket"
+		}]
+	}, {
+		"name": "The 3 Pillars",
+		"languages": {
+			"zh-cn": "Web三剑客"
+		},
+		"children": [{
+			"name": "HTML (HyperText Markup Language)"
+		}, {
+			"name": "CSS (Cascading Style Sheets)"
+		}, {
+			"name": "JavaScript"
+		}]
+	}, {
+		"name": "Standards",
+		"languages": {
+			"zh-cn": "标准",
+			"es-es": "Estándares"
+		},
+		"children": [{
+			"name": "W3C",
+			"children": [{
+				"name": "HTML"
+			}, {
+				"name": "CSS"
+			}, {
+				"name": "XHTML"
+			}, {
+				"name": "XML"
+			}]
+		}]
+	}, {
+		"name": "Core Concepts",
+		"languages": {
+			"zh-cn": "核心概念",
+			"es-es": "Conceptons principales"
+		},
+		"children": [{
+			"name": "HTML",
+			"children": [{
+				"name": "DOM",
+				"url": "https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model"
+			}, {
+				"name": "Element",
+				"url": "https://developer.mozilla.org/en-US/docs/Web/API/Element"
+			}, {
+				"name": "Attribute"
+			}]
+		}, {
+			"name": "JavaScript",
+			"children": [{
+				"name": "Prototype",
+				"url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/prototype"
+			}, {
+				"name": "Scope",
+				"url": "https://developer.mozilla.org/en-US/docs/Glossary/Scope"
+			}, {
+				"name": "Closure",
+				"url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures"
+			}, {
+				"name": "JSON (JavaSript Object Notation)",
+				"url": "https://developer.mozilla.org/en-US/docs/Glossary/JSON"
+			}, {
+				"name": "AJAX (Asynchronous JavaScript and XML)",
+				"url": "https://developer.mozilla.org/en-US/docs/AJAX"
+			}]
+		}, {
+			"name": "CSS",
+			"children": [{
+				"name": "Selector"
+			}, {
+				"name": "Priority"
+			}, {
+				"name": "Specificity"
+			}, {
+				"name": "Box Model"
+			}]
+		}]
+	}, {
+		"name": "Rendering Engine",
+		"languages": {
+			"zh-cn": "渲染引擎",
+			"es-es": "Motores de renderizado"
+		},
+		"children": [{
+			"name": "Trident (IE)",
+			"url": "https://en.wikipedia.org/wiki/Trident_(layout_engine)"
+		}, {
+			"name": "Blink / prev. WebKit (Chrome)",
+			"url": "http://www.chromium.org/blink",
+			"github": ""
+		}, {
+			"name": "Gecko (Firefox)",
+			"url": "https://developer.mozilla.org/en-us/docs/Mozilla/Gecko"
+		}, {
+			"name": "WebKit (Safari)",
+			"url": "http://www.webkit.org/"
+		}, {
+			"name": "Blink / prev. Presto (Opera)",
+			"url": "http://www.chromium.org/blink",
+			"github": ""
+		}, {
+			"name": "EdgeHTML (Edge)",
+			"url": "https://en.wikipedia.org/wiki/EdgeHTML"
+		}]
+	}, {
+		"name": "JavaScript Engine",
+		"languages": {
+			"zh-cn": "脚本引擎",
+			"es-es": "Motores JavaScript"
+		},
+		"children": [{
+			"name": "JScript (IE8- / ASP)",
+			"url": "https://en.wikipedia.org/wiki/JScript"
+		}, {
+			"name": "Chakra (IE9+ / Edge)",
+			"url": "https://en.wikipedia.org/wiki/Chakra_(JScript_engine)"
+		}, {
+			"name": "V8 (Chrome / Opera / Nodejs / MongoDB)",
+			"url": "https://developers.google.com/v8/?hl=zh-CN",
+			"github": "https://github.com/v8/v8/",
+			"stargazers": 2577
+		}, {
+			"name": "SpiderMonkey (Firefox)",
+			"url": " https://developer.mozilla.org/en-us/docs/Mozilla/Projects/SpiderMonkey"
+		}, {
+			"name": "JavaScriptCore (Safari)",
+			"url": "https://en.wikipedia.org/wiki/WebKit#JavaScriptCore"
+		}]
+	}, {
+		"name": "Runtime",
+		"languages": {
+			"zh-cn": "运行时",
+			"es-es": "Tiempo de ejecución"
+		},
+		"children": [{
+			"name": "Cookie"
+		}, {
+			"name": "Local Cache"
+		}, {
+			"name": "Session Storage"
+		}, {
+			"name": "Local Storage"
+		}, {
+			"name": "Components",
+			"languages": {
+				"es-es": "Componentes"
+			},
+			"children": [{
+				"name": "Extensions",
+				"languages": {
+					"es-es": "Extensiones"
+				}
+			}, {
+				"name": "Plugins"
+			}]
+		}, {
+			"name": "Resources",
+			"children": [{
+				"name": "Images"
+			}, {
+				"name": "Icons"
+			}, {
+				"name": "Fonts"
+			}, {
+				"name": "Audios"
+			}, {
+				"name": "Videos"
+			}]
+		}]
+	}, {
+		"name": "Editors",
+		"languages": {
+			"zh-cn": "编辑器",
+			"es-es": "Editores de texto"
+		},
+		"children": [{
+			"name": "Sublime Text",
+			"url": "http://www.sublimetext.com/"
+		}, {
+			"name": "WebStorm",
+			"url": "https://www.jetbrains.com/webstorm/"
+		}, {
+			"name": "Atom",
+			"url": "https://atom.io/",
+			"github": "https://github.com/atom/atom/",
+			"stargazers": 19510
+		}, {
+			"name": "Vim",
+			"url": "http://www.vim.org/"
+		}, {
+			"name": "Emacs",
+			"url": "https://www.gnu.org/software/emacs/"
+		}, {
+			"name": "Brackets",
+			"url": "http://brackets.io/",
+			"github": "https://github.com/adobe/brackets/",
+			"stargazers": 23091
+		}, {
+			"name": "Light Table",
+			"url": "http://lighttable.com/",
+			"github": "https://github.com/LightTable/LightTable/",
+			"stargazers": 7926
+		}, {
+			"name": "Visual Studio",
+			"url": "https://www.visualstudio.com/"
+		}, {
+			"name": "Visual Studio Code",
+			"url": "https://code.visualstudio.com/",
+			"github": "https://github.com/Microsoft/vscode",
+			"stargazers": 6652
+		}, {
+			"name": "Dreamweaver ;-)"
+		}, {
+			"name": "FrontPage / SharePoint Designer ;-)"
+		}]
+	}, {
+		"name": "Build Tasks",
+		"languages": {
+			"zh-cn": "编译任务"
+		},
+		"children": [{
+			"name": "Minification",
+			"languages": {
+				"zh-cn": "精简",
+				"es-es": "Minificación"
+			}
+		}, {
+			"name": "Compilation",
+			"languages": {
+				"zh-cn": "编译",
+				"es-es": "Compilación"
+			}
+		}, {
+			"name": "Concatenation",
+			"languages": {
+				"zh-cn": "合并",
+				"es-es": "Concatenación"
+			}
+		}, {
+			"name": "Uglification",
+			"languages": {
+				"zh-cn": "混淆"
+			}
+		}, {
+			"name": "Image Optimization",
+			"languages": {
+				"zh-cn": "图像优化",
+				"es-es": "Optimización de imágenes"
+			}
+		}, {
+			"name": "Unit Testing",
+			"languages": {
+				"zh-cn": "单元测试",
+				"es-es": "Tests unitarios"
+			}
+		}]
+	}, {
+		"name": "Build Tools",
+		"languages": {
+			"zh-cn": "编译工具",
+			"es-es": "Herramientas de tareas"
+		},
+		"children": [{
+			"name": "Grunt",
+			"url": "http://www.gruntjs.com/",
+			"github": "https://github.com/cowboy/jquery-tiny-pubsub/",
+			"stargazers": 662
+		}, {
+			"name": "Gulp",
+			"url": "http://gulpjs.com/",
+			"github": "https://github.com/gulpjs/gulp/",
+			"stargazers": 15661
+		}, {
+			"name": "Brunch",
+			"url": "http://brunch.io/",
+			"github": "https://github.com/brunch/brunch/",
+			"stargazers": 4472
+		}, {
+			"name": "Yeoman",
+			"url": "http://yeoman.io/"
+		}, {
+			"name": "Broccoli",
+			"github": "https://github.com/broccolijs/broccoli/",
+			"stargazers": 2391
+		}]
+	}, {
+		"name": "Debug",
+		"languages": {
+			"zh-cn": "调试",
+			"es-es": "Depuración"
+		},
+		"children": [{
+			"name": "Developer Tools",
+			"url": "https://developer.chrome.com/devtools"
+		}, {
+			"name": "Firebug",
+			"url": "http://getfirebug.com/",
+			"github": "https://github.com/firebug/firebug/",
+			"stargazers": 924
+		}]
+	}, {
+		"name": "Base Tools",
+		"languages": {
+			"zh-cn": "基础工具",
+			"es-es": "Herramientas base"
+		},
+		"children": [{
+			"name": "Node.js",
+			"url": "https://nodejs.org/",
+			"github": "https://github.com/joyent/node/",
+			"stargazers": 37851
+		}, {
+			"name": "Phantom.js",
+			"url": "http://phantomjs.org/",
+			"github": "https://github.com/ariya/phantomjs/",
+			"stargazers": 14950
+		}, {
+			"name": "SpiderMonkey",
+			"url": "https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey"
+		}]
+	}, {
+		"name": "Quality",
+		"languages": {
+			"zh-cn": "质量控制",
+			"es-es": "Calidad"
+		},
+		"children": [{
+			"name": "JSLint",
+			"url": "http://www.jslint.com/",
+			"github": "https://github.com/douglascrockford/JSLint/",
+			"stargazers": 2382
+		}, {
+			"name": "JSHint",
+			"url": "http://jshint.com/",
+			"github": "https://github.com/jshint/jshint/",
+			"stargazers": 5384
+		}, {
+			"name": "jscs",
+			"url": "http://jscs.info/",
+			"github": "https://github.com/jscs-dev/node-jscs",
+			"stargazers": 3982
+		}, {
+			"name": "Closure Linter",
+			"url": "https://developers.google.com/closure/utilities/"
+		}]
+	}, {
+		"name": "Package",
+		"languages": {
+			"zh-cn": "包管理",
+			"es-es": "Gestores de paquetes"
+		},
+		"children": [{
+			"name": "npm",
+			"url": "https://www.npmjs.com/",
+			"github": "https://github.com/npm/npm/",
+			"stargazers": 6816
+		}, {
+			"name": "Bower",
+			"url": "http://bower.io/",
+			"github": "https://github.com/bower/bower/",
+			"stargazers": 12747
+		}]
+	}, {
+		"name": "Test",
+		"languages": {
+			"zh-cn": "测试"
+		},
+		"children": [{
+			"name": "Tools",
+			"languages": {
+				"zh-cn": "工具",
+				"es-es": "Herramientas"
+			},
+			"children": [{
+				"name": "QUnit",
+				"url": "https://qunitjs.com/",
+				"github": "https://github.com/jquery/qunit/",
+				"stargazers": 3228
+			}, {
+				"name": "Jasmine",
+				"url": "http://jasmine.github.io/",
+				"github": "https://github.com/jasmine/jasmine/",
+				"stargazers": 9303
+			}, {
+				"name": "Mocha",
+				"url": "https://mochajs.org/",
+				"github": "https://github.com/mochajs/mocha/",
+				"stargazers": 7226
+			}, {
+				"name": "Selenium",
+				"url": "http://www.seleniumhq.org/",
+				"github": "https://github.com/SeleniumHQ/selenium/",
+				"stargazers": 1563
+			}, {
+				"name": "WebDriverIO",
+				"url": "http://webdriver.io/",
+				"github": "https://github.com/webdriverio/webdriverio/",
+				"stargazers": 1073
+			}, {
+				"name": "Protractor",
+				"url": "http://www.protractortest.org/"
+			}, {
+				"name": "Chai",
+				"url": "http://chaijs.com/",
+				"github": "https://github.com/jfirebaugh/konacha/",
+				"stargazers": 977
+			}, {
+				"name": "Sinon.JS",
+				"url": "http://sinonjs.org/",
+				"github": "https://github.com/cjohansen/Sinon.JS/",
+				"stargazers": 2230
+			}, {
+				"name": "Karma",
+				"url": "http://karma-runner.github.io/",
+				"github": "https://github.com/karma-runner/karma/",
+				"stargazers": 5550
+			}, {
+				"name": "nodeunit",
+				"github": "https://github.com/caolan/nodeunit/",
+				"stargazers": 1608
+			}, {
+				"name": "tape",
+				"github": "http://github.com/substack/tape",
+				"stargazers": 1264
+			}, {
+				"name": "nightmare",
+				"url": "http://nightmarejs.org/",
+				"github": "https://github.com/segmentio/nightmare",
+				"stargazers": 6110
+			}]
+		}, {
+			"name": "Composite",
+			"languages": {
+				"zh-cn": "在线工具"
+			},
+			"children": [{
+				"name": "Sauce Labs",
+				"url": "https://saucelabs.com/"
+			}, {
+				"name": "Browser Stack",
+				"url": "https://www.browserstack.com/"
+			}, {
+				"name": "Browser Shots",
+				"url": "http://browsershots.org/"
+			}, {
+				"name": "Browserling",
+				"url": "https://www.browserling.com/"
+			}, {
+				"name": "Browser Sandbox",
+				"url": "https://spoon.net/browsers/"
+			}, {
+				"name": "Cross Browser Testing",
+				"url": "https://crossbrowsertesting.com/"
+			}, {
+				"name": "Browsera",
+				"url": "http://www.browsera.com/"
+			}, {
+				"name": "SortSite",
+				"url": "http://www.powermapper.com/products/sortsite/checks/browser-compatibility/"
+			}]
+		}]
+	}, {
+		"name": "Frameworks / Libraries",
+		"languages": {
+			"zh-cn": "库 / 框架",
+			"es-es": "Librerías y frameworks"
+		},
+		"children": [{
+			"name": "JavaScript base library",
+			"languages": {
+				"zh-cn": "基础库"
+			},
+			"children": [{
+				"name": "jQuery",
+				"url": "https://jquery.com/",
+				"github": "https://github.com/jquery/jquery/",
+				"stargazers": 35652
+			}, {
+				"name": "Prototype",
+				"url": "http://prototypejs.org/",
+				"github": "https://github.com/sstephenson/prototype/",
+				"stargazers": 3022
+			}, {
+				"name": "Zepto",
+				"url": "http://zeptojs.com/",
+				"github": "https://github.com/madrobby/zepto/",
+				"stargazers": 9109
+			}, {
+				"name": "MooTool",
+				"url": "http://mootools.net/",
+				"github": "https://github.com/mootools/mootools-core/",
+				"stargazers": 2168
+			}]
+		}, {
+			"name": "Modular",
+			"languages": {
+				"zh-cn": "模块化",
+				"es-es": "Módulos"
+			},
+			"children": [{
+				"name": "ES6 Module"
+			}, {
+				"name": "CommonJS",
+				"children": [{
+					"name": "webpack",
+					"url": "http://webpack.github.io/",
+					"github": "https://github.com/webpack/webpack/",
+					"stargazers": 7271
+				}, {
+					"name": "browserify",
+					"url": "http://browserify.org/",
+					"github": "https://github.com/substack/node-browserify/",
+					"stargazers": 8004
+				}]
+			}, {
+				"name": "AMD",
+				"children": [{
+					"name": "RequireJS",
+					"url": "http://requirejs.org/",
+					"github": "https://github.com/jrburke/requirejs/",
+					"stargazers": 8002
+				}]
+			}, {
+				"name": "UMD",
+				"children": [{
+					"name": "umd",
+					"github": "https://github.com/umdjs/umd/",
+					"stargazers": 2764
+				}]
+			}]
+		}, {
+			"name": "JavaScript Framework",
+			"languages": {
+				"zh-cn": "框架"
+			},
+			"children": [{
+				"name": "AngularJS",
+				"url": "https://angularjs.org/",
+				"github": "https://github.com/angular/angular.js/",
+				"stargazers": 41780
+			}, {
+				"name": "Backbone",
+				"url": "http://backbonejs.org/",
+				"github": "https://github.com/jashkenas/backbone/",
+				"stargazers": 22720
+			}, {
+				"name": "Knockout",
+				"url": "http://knockoutjs.com/",
+				"github": "https://github.com/SteveSanderson/knockout/",
+				"stargazers": 6660
+			}, {
+				"name": "Ember",
+				"url": "http://emberjs.com/",
+				"github": "https://github.com/emberjs/ember.js/",
+				"stargazers": 14555
+			}, {
+				"name": "React",
+				"url": "http://facebook.github.io/react/",
+				"github": "https://github.com/facebook/react/",
+				"stargazers": 26617
+			}, {
+				"name": "polymer",
+				"url": "https://www.polymer-project.org/",
+				"github": "https://github.com/polymer/polymer/",
+				"stargazers": 12217
+			}, {
+				"name": "Deft.js",
+				"url": "http://deftjs.org/",
+				"github": "https://github.com/deftjs/DeftJS/",
+				"stargazers": 308
+			}, {
+				"name": "Vue",
+				"url": "http://vuejs.org/",
+				"github": "https://github.com/yyx990803/vue/",
+				"stargazers": 6261
+			}, {
+				"name": "Riot",
+				"url": "http://riotjs.com/",
+				"github": "https://github.com/riot/riot",
+				"stargazers": 7875
+			}]
+		}, {
+			"name": "UI framework",
+			"languages": {
+				"zh-cn": "UI框架"
+			},
+			"children": [{
+				"name": "Bootstrap",
+				"url": "http://getbootstrap.com/",
+				"github": "https://github.com/twbs/bootstrap/",
+				"stargazers": 84763
+			}, {
+				"name": "Semantic UI",
+				"url": "http://semantic-ui.com/",
+				"github": "https://github.com/Semantic-Org/Semantic-UI/",
+				"stargazers": 19552
+			}, {
+				"name": "Foundation",
+				"url": "http://foundation.zurb.com/",
+				"github": "https://github.com/zurb/foundation/",
+				"stargazers": 20711
+			}, {
+				"name": "Material UI",
+				"url": "http://material-ui.com/",
+				"github": "https://github.com/callemall/material-ui/",
+				"stargazers": 10048
+			}, {
+				"name": "WinJS",
+				"url": "https://dev.windows.com/en-us/develop/winjs",
+				"github": "https://github.com/winjs/winjs",
+				"stargazers": 3621
+			}, {
+				"name": "Pure",
+				"url": "http://purecss.io/",
+				"github": "https://github.com/yahoo/pure/",
+				"stargazers": 12367
+			}, {
+				"name": "Amaze UI",
+				"url": "http://amazeui.org/",
+				"github": "https://github.com/allmobilize/amazeui",
+				"stargazers": 5965
+			}]
+		}, {
+			"name": "WebSocket",
+			"children": [{
+				"name": "Socket.io",
+				"url": "http://socket.io/",
+				"github": "https://github.com/Automattic/socket.io/",
+				"stargazers": 19169
+			}, {
+				"name": "web-socket-js",
+				"github": "https://github.com/gimite/web-socket-js/",
+				"stargazers": 2115
+			}]
+		}, {
+			"name": "Data Visualization",
+			"languages": {
+				"zh-cn": "数据可视化",
+				"es-es": "Visualización de datos"
+			},
+			"children": [{
+				"name": "D3",
+				"url": "http://d3js.org/",
+				"github": "https://github.com/mbostock/d3/wiki/Gallery/",
+				"stargazers": 40794
+			}, {
+				"name": "Echarts",
+				"url": "http://echarts.baidu.com",
+				"github": "https://github.com/ecomfe/esl/",
+				"stargazers": 396
+			}, {
+				"name": "HighCharts",
+				"url": "http://www.highcharts.com/",
+				"github": "https://github.com/highslide-software/highcharts.com/",
+				"stargazers": 4041
+			}, {
+				"name": "Vis.js",
+				"url": "http://visjs.org/",
+				"github": "https://github.com/almende/vis/",
+				"stargazers": 2993
+			}, {
+				"name": "Flot",
+				"url": "http://www.flotcharts.org/",
+				"github": "https://github.com/flot/flot/",
+				"stargazers": 4531
+			}]
+		}, {
+			"name": "WebGL",
+			"children": [{
+				"name": "Three.js",
+				"url": "http://threejs.org/",
+				"github": "https://github.com/mrdoob/three.js/",
+				"stargazers": 20758
+			}, {
+				"name": "Babylon.js",
+				"url": "http://www.babylonjs.com/",
+				"github": "https://github.com/BabylonJS/Babylon.js/",
+				"stargazers": 2349
+			}, {
+				"name": "Pixi.js",
+				"url": "http://www.pixijs.com/",
+				"github": "https://github.com/GoodBoyDigital/pixi.js/",
+				"stargazers": 8361
+			}]
+		}, {
+			"name": "CSS3 Animation",
+			"languages": {
+				"zh-cn": "CSS3 动画"
+			},
+			"children": [{
+				"name": "Animate.css",
+				"url": "https://daneden.github.io/animate.css/",
+				"github": "https://github.com/daneden/animate.css/",
+				"stargazers": 24549
+			}, {
+				"name": "bounce.js",
+				"url": "http://bouncejs.com/",
+				"github": "https://github.com/tictail/bounce.js/",
+				"stargazers": 3727
+			}, {
+				"name": "Effeckt.css",
+				"url": "https://h5bp.github.io/Effeckt.css/",
+				"github": "https://github.com/h5bp/Effeckt.css/",
+				"stargazers": 9777
+			}, {
+				"name": "move.js",
+				"url": "https://visionmedia.github.io/move.js/",
+				"github": "https://github.com/visionmedia/move.js/",
+				"stargazers": 2830
+			}]
+		}, {
+			"name": "Flow Controller",
+			"languages": {
+				"zh-cn": "流程控制",
+				"es-es": "Control de flujo"
+			},
+			"children": [{
+				"name": "ES6",
+				"children": [{
+					"name": "Promise"
+				}, {
+					"name": "Generator"
+				}]
+			}, {
+				"name": "ES7",
+				"children": [{
+					"name": "yield"
+				}, {
+					"name": "await"
+				}]
+			}, {
+				"name": "async",
+				"github": "https://github.com/caolan/async/",
+				"stargazers": 14156
+			}, {
+				"name": "co",
+				"github": "https://github.com/tj/co/",
+				"stargazers": 3502
+			}, {
+				"name": "Promise",
+				"children": [{
+					"name": "Bluebird",
+					"github": "https://github.com/petkaantonov/bluebird/",
+					"stargazers": 7530
+				}, {
+					"name": "q",
+					"github": "https://github.com/kriskowal/q/",
+					"stargazers": 9460
+				}, {
+					"name": "when.js",
+					"github": "https://github.com/cujojs/when/",
+					"stargazers": 2579
+				}]
+			}]
+		}, {
+			"name": "Functional",
+			"languages": {
+				"zh-cn": "函数式编程",
+				"es-es": "Funcional"
+			},
+			"children": [{
+				"name": "bacon.js",
+				"url": "http://baconjs.github.io/",
+				"github": "https://github.com/baconjs/bacon.js/",
+				"stargazers": 4498
+			}, {
+				"name": "immutable.js",
+				"url": "https://facebook.github.io/immutable-js/",
+				"github": "https://github.com/facebook/immutable-js/",
+				"stargazers": 7999
+			}, {
+				"name": "ramda",
+				"url": "http://ramdajs.com/",
+				"github": "http://github.com/ramda/ramda",
+				"stargazers": 2792
+			}, {
+				"name": "underscore.js",
+				"url": "http://underscorejs.org/",
+				"github": "https://github.com/jashkenas/underscore",
+				"stargazers": 15823
+			}, {
+				"name": "lodash",
+				"url": "https://lodash.com/",
+				"github": "https://github.com/lodash/lodash",
+				"stargazers": 11071
+			}, {
+				"name": "ReactiveX",
+				"url": "http://reactivex.io/",
+				"github": "https://github.com/Reactive-Extensions/RxJS",
+				"stargazers": 6720
+			}]
+		}, {
+			"name": "Mobile UI",
+			"languages": {
+				"zh-cn": "手机 UI 框架"
+			},
+			"children": [{
+				"name": "jQuery Mobile",
+				"url": "https://jquerymobile.com/",
+				"github": "https://github.com/jquery/jquery-mobile/",
+				"stargazers": 9654
+			}, {
+				"name": "Jo",
+				"url": "http://joapp.com/",
+				"github": "https://github.com/davebalmer/jo/",
+				"stargazers": 1227
+			}, {
+				"name": "Dojo Mobile",
+				"url": "https://dojotoolkit.org/reference-guide/1.10/dojox/mobile.html"
+			}, {
+				"name": "Lungo",
+				"url": "http://lungo.tapquo.com/",
+				"github": "https://github.com/tapquo/Lungo.js/",
+				"stargazers": 2457
+			}]
+		}]
+	}, {
+		"name": "CSS Pre-processors",
+		"languages": {
+			"zh-cn": "CSS 预处理器",
+			"es-es": "Pre-procesadores CSS"
+		},
+		"children": [{
+			"name": "LESS",
+			"children": [{
+				"name": "LESS",
+				"url": "http://lesscss.org/",
+				"github": "https://github.com/less/less.js/",
+				"stargazers": 12679
+			}, {
+				"name": "Hat",
+				"url": "http://lesshat.madebysource.com/",
+				"github": "https://github.com/csshat/lesshat/",
+				"stargazers": 2057
+			}]
+		}, {
+			"name": "Sass(SCSS)",
+			"children": [{
+				"name": "Compass",
+				"url": "http://compass-style.org/",
+				"github": "https://github.com/chriseppstein/compass/",
+				"stargazers": 6406
+			}, {
+				"name": "Bourbon",
+				"url": "http://bourbon.io/",
+				"github": "https://github.com/thoughtbot/bourbon/",
+				"stargazers": 6178
+			}, {
+				"name": "Gumby",
+				"url": "http://www.gumbyframework.com/",
+				"github": "https://github.com/GumbyFramework/Gumby/",
+				"stargazers": 2920
+			}]
+		}, {
+			"name": "Stylus",
+			"children": [{
+				"name": "nib",
+				"github": "https://github.com/tj/nib/",
+				"stargazers": 1520
+			}]
+		}]
+	}, {
+		"name": "Future Standards",
+		"languages": {
+			"zh-cn": "未来标准"
+		},
+		"children": [{
+			"name": "babel",
+			"github": "https://github.com/babel/babel",
+			"url": "https://babeljs.io/",
+			"stargazers": 9712
+		}]
+	}, {
+		"name": "Template",
+		"languages": {
+			"zh-cn": "模板引擎",
+			"es-es": "Plantillas"
+		},
+		"children": [{
+			"name": "Handlebars",
+			"url": "http://handlebarsjs.com/",
+			"github": "https://github.com/wycats/handlebars.js/",
+			"stargazers": 8808
+		}, {
+			"name": "Haml",
+			"url": "http://haml.info/",
+			"github": "https://github.com/haml/haml/",
+			"stargazers": 2778
+		}, {
+			"name": "Slim",
+			"url": "http://slim-lang.com/",
+			"github": "https://github.com/slim-template/slim/",
+			"stargazers": 3480
+		}, {
+			"name": "Jade",
+			"url": "http://jade-lang.com/",
+			"github": "https://github.com/jadejs/jade/",
+			"stargazers": 8958
+		}, {
+			"name": "Ejs",
+			"url": "http://www.embeddedjs.com/"
+		}, {
+			"name": "Spacebars",
+			"url": "http://meteorcapture.com/spacebars/"
+		}, {
+			"name": "mustache",
+			"url": "http://mustache.github.io/",
+			"github": "https://github.com/janl/mustache.js/",
+			"stargazers": 8139
+		}]
+	}, {
+		"name": "Modernisation",
+		"languages": {
+			"zh-cn": "统一化"
+		},
+		"children": [{
+			"name": "Normalize",
+			"url": "http://necolas.github.io/normalize.css/",
+			"github": "https://github.com/necolas/normalize.css/",
+			"stargazers": 17966
+		}, {
+			"name": "Reset"
+		}]
+	}, {
+		"name": "Best Practices",
+		"languages": {
+			"zh-cn": "最佳实践",
+			"es-es": "Buenas prácticas"
+		},
+		"children": [{
+			"name": "SEO",
+			"url": "https://en.wikipedia.org/wiki/Search_engine_optimization"
+		}, {
+			"name": "Responsiveness"
+		}, {
+			"name": "CDN",
+			"url": "https://en.wikipedia.org/wiki/Content_delivery_network"
+		}]
+	}, {
+		"name": "Security",
+		"languages": {
+			"zh-cn": "安全",
+			"es-es": "Seguridad"
+		},
+		"children": [{
+			"name": "Sandbox"
+		}, {
+			"name": "XSS",
+			"url": "https://en.wikipedia.org/wiki/Cross-site_scripting"
+		}, {
+			"name": "CORS",
+			"url": "http://www.w3.org/TR/cors/"
+		}]
+	}, {
+		"name": "Intermediate Languages",
+		"languages": {
+			"zh-cn": "中间语言",
+			"es-es": "Lenguajes intermedios"
+		},
+		"children": [{
+			"name": "CoffeeScript",
+			"url": "http://coffeescript.org/",
+			"github": "https://github.com/jashkenas/coffeescript/",
+			"stargazers": 11755
+		}, {
+			"name": "TypeScript",
+			"url": "http://www.typescriptlang.org/",
+			"github": "https://github.com/Microsoft/TypeScript/",
+			"stargazers": 6379
+		}, {
+			"name": "ClojureScript",
+			"github": "https://github.com/clojure/clojurescript/",
+			"stargazers": 4876
+		}, {
+			"name": "JSX (Facebook)",
+			"url": "http://facebook.github.io/react/docs/jsx-in-depth.html"
+		}]
+	}, {
+		"name": "Mobile Application Development",
+		"languages": {
+			"zh-cn": "移动应用开发",
+			"es-es": "Empaquetadores de Apps para móvil"
+		},
+		"children": [{
+			"name": "PhoneGap / Cordova",
+			"url": "https://cordova.apache.org/",
+			"github": "https://github.com/apache/cordova-android/",
+			"stargazers": 1166
+		}, {
+			"name": "MUI",
+			"url": "http://dev.dcloud.net.cn/mui/",
+			"github": "https://github.com/dcloudio/mui/",
+			"stargazers": 1476
+		}, {
+			"name": "React Native",
+			"url": "https://facebook.github.io/react-native/",
+			"github": "https://github.com/facebook/react-native/",
+			"stargazers": 19802
+		}, {
+			"name": "Ionic",
+			"url": "http://ionicframework.com/",
+			"github": "https://github.com/driftyco/ionic/",
+			"stargazers": 19472
+		}]
+	}, {
+		"name": "Desktop Application Development",
+		"languages": {
+			"zh-cn": "桌面应用开发"
+		},
+		"children": [{
+			"name": "Electron",
+			"url": "http://electron.atom.io/",
+			"github": "https://github.com/atom/electron",
+			"stargazers": 16896
+		}, {
+			"name": "NW.js",
+			"url": "http://nwjs.io/",
+			"github": "https://github.com/nwjs/nw.js",
+			"stargazers": 24680
+		}]
+	}]
+}

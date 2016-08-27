@@ -1,0 +1,6 @@
+{
+  "gitbook": ">=2.0.0",
+  "title":"Frontend Notebook",
+  "language":"zh-cn",
+  "description":"互联网前端开发过程全记录。从基础开始，从现在开始。"
+}

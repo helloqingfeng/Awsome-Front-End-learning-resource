@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Transfomr 3D</title>
+    <style type="text/css">
+    body {
+        margin: 50px;
+        text-align: center;
+        position: relative;
+        margin: 100px 0;
+    }
+
+    .container {
+        position: relative;
+        margin: 100px 10px;
+        display: inline-block;
+        perspective: 500px;
+    }
+
+    .box {
+        width: 150px;
+        height: 150px;
+        border: 3px solid black;
+        background-color: rgba(138, 161, 64, .5);
+    }
+
+    .box-origin {
+        position: absolute;
+        top: 0;
+        left: 0;
+        z-index: -999;
+    }
+    </style>
+</head>
+
+<body>
+    <h1>Transform 3D</h1>
+    <h3>可以忽略所有<code>:after</code>的样式</h3>
+    <h2>rotate</h2>
+    <div class="container">
+        <div id="box1" class="box">
+            <div id="line"></div>
+        </div>
+        <div class="box box-origin"></div>
+    </div>
+    <style type="text/css">
+    #box1 {
+        transform: rotateY(60deg) rotateX(0deg);
+    }
+
+    #line {
+        position: absolute;
+        width: 2px;
+        height: 150px;
+        background-color: RED;
+        left: 73px;
+    }
+    </style>
+    <h2>perspective-origin</h2>
+    <div class="container" id="container-1">
+        <div id="box2" class="box"></div>
+        <div class="box box-origin"></div>
+        <p>top</p>
+    </div>
+    <div class="container" id="container-2">
+        <div id="box3" class="box"></div>
+        <div class="box box-origin"></div>
+        <p>50% 50%</p>
+    </div>
+    <div class="container" id="container-3">
+        <div id="box4" class="box"></div>
+        <div class="box box-origin"></div>
+        <p>bottom</p>
+    </div>
+    <style type="text/css">
+    #box2,
+    #box3,
+    #box4 {
+        transform: rotateY(45deg);
+    }
+
+    #container-1 {
+        perspective-origin: 0 0;
+    }
+
+    #container-2 {
+        perspective-origin: 50% 50%;
+    }
+
+    #container-3 {
+        perspective-origin: 100% 100%;
+    }
+    </style>
+    <h2>translate3d(x, y, z)</h2>
+    <div class="container">
+        <div id="box-5" class="box"></div>
+        <div class="box box-origin"></div>
+        <p>(10px, 10px, 200px)</p>
+    </div>
+    <div class="container">
+        <div id="box-6" class="box"></div>
+        <div class="box box-origin"></div>
+        <p>(0, 0, -100px)</p>
+    </div>
+    <div class="container">
+        <div id="box-7" class="box"></div>
+        <div class="box box-origin"></div>
+        <p>(0, 0, 0)</p>
+    </div>
+    <style type="text/css">
+    #box-5 {
+        transform: translateZ(100px) translateY(10px) translateX(10px);
+    }
+
+    #box-6 {
+        transform: translate3d(0, 0, -100px);
+    }
+
+    #box-7 {
+        transform: translate3d(0, 0, 0);
+    }
+    </style>
+    <h2>scale3d</h2>
+    <h3>改变轴的比例</h3>
+    <div class="container">
+        <div id="box-8" class="box"></div>
+        <div class="box box-origin"></div>
+        <p>scale3d(1.2, 1.2, 1)</p>
+    </div>
+    <style>
+    #box-8 {
+        transform: scale3d(1.2, 1.2, 1);
+    }
+    </style>
+    <h2>rotate3d</h2>
+    <div class="container">
+        <div id="box-9" class="box"></div>
+        <div class="box box-origin"></div>
+        <p>(0, 0, 1, 45deg)</p>
+    </div>
+    <div class="container">
+        <div id="box-10" class="box"></div>
+        <div class="box box-origin"></div>
+        <p>(1, 1, 1, 45deg)</p>
+    </div>
+    <div class="container">
+        <div id="box-11" class="box"></div>
+        <div class="box box-origin"></div>
+        <p>(-1, -1, -1, 45deg)</p>
+    </div>
+    <style type="text/css">
+    #box-9 {
+        transform: rotate3d(0, 0, 1, 45deg);
+    }
+
+    #box-10 {
+        transform: rotate3d(1, 1, 1, 45deg);
+    }
+
+    #box-11 {
+        transform: rotate3d(-1, -1, -1, 45deg);
+    }
+    </style>
+    <h2>transform-style</h2>
+    <div class="container">
+      <div id="box-12" class="box">
+        <div id="box-13" class="box"></div>
+      </div>
+      <div class="box box-origin"></div>
+      <p>preserve-3d</p>
+    </div>
+    <style type="text/css">
+    #box-12 {
+      transform: rotateX(45deg);
+      transform-style: preserve-3d;
+    }
+    #box-13 {
+      transform: rotateY(45deg);
+    }
+    </style>
+    <div class="container">
+      <div id="box-14" class="box">
+        <div id="box-15" class="box"></div>
+      </div>
+      <div class="box box-origin"></div>
+      <p>flat</p>
+    </div>
+    <style type="text/css">
+    #box-14 {
+      transform: rotateX(45deg);
+      transform-style: flat;
+    }
+    #box-15 {
+      transform: rotateY(45deg);
+    }
+    </style>
+    <h2>backface-visibility</h2>
+    <div class="container">
+      <div id="box-16" class="box">
+        <p>B</p>
+      </div>
+      <div class="box box-origin"></div>
+      <p>visible</p>
+    </div>
+    <div class="container">
+      <div id="box-17" class="box">
+        <p>B</p>
+      </div>
+      <div class="box box-origin"></div>
+      <p>hidden</p>
+    </div>
+    <style type="text/css">
+    #box-16 {
+      background-color: rgba(138, 161, 64, 1);
+      transform: rotateY(100deg);
+      backface-visibility: visible;
+    }
+    #box-16 p {
+      color: black;
+      font-size: 3rem;
+    }
+    #box-17 {
+      background-color: rgba(138, 161, 64, 1);
+      transform: rotateY(100deg);
+      backface-visibility: hidden;
+    }
+    #box-17 p {
+      color: black;
+      font-size: 3rem;
+    }
+    </style>
+</body>
+
+</html>

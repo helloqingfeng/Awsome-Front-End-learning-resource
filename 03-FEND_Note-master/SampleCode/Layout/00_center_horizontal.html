@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>水平居中</title>
+  </head>
+  <body>
+
+    <style media="screen">
+      .box {
+        width: 100px;
+        height: 100px;
+        background: #859A00;
+      }
+    </style>
+
+    <!-- Sample 00 -->
+    <h1>inline-block + text-align</h1>
+    <div class="demo0-parent">
+      <div class="demo0-child box"></div>
+    </div>
+    <style media="screen">
+      .demo0-child {
+        display: inline-block;
+      }
+      .demo0-parent {
+        text-align: center;
+      }
+    </style>
+
+    <!-- Sample 01 -->
+    <h1>table + margin</h1>
+    <div class="demo1-parent">
+      <div class="demo1-child box"></div>
+    </div>
+    <style media="screen">
+      .demo1-child {
+        display: table;
+        margin: 0 auto;
+      }
+    </style>
+
+    <!-- Sample 02 -->
+    <h1>absolute + transform</h1>
+    <div class="demo2-parent">
+      <div class="demo2-child box"></div>
+    </div>
+
+    <style media="screen">
+      .demo2-parent {
+        position: relative;
+        height: 100px;
+      }
+      .demo2-child {
+        position: absolute;
+        left: 50%;
+        transform: translateX(-50%);
+      }
+    </style>
+
+    <!-- Sample03 -->
+    <h1>flex + justify-content</h1>
+    <div class="demo3-parent">
+      <div class="demo3-child box"></div>
+    </div>
+    <style media="screen">
+      .demo3-parent {
+        display: flex;
+        justify-content: center;
+      }
+    </style>
+
+  </body>
+</html>

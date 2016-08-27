@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Transform 2D</title>
+    <style type="text/css">
+    body {
+        margin: 50px;
+        text-align: center;
+        position: relative;
+        margin: ;
+        100px 0;
+    }
+
+    .container {
+        position: relative;
+        margin: 100px 0;
+        display: inline-block;
+    }
+
+    .box {
+        width: 150px;
+        height: 150px;
+        border: 3px solid black;
+        background-color: rgba(138, 161, 64, .5);
+    }
+
+    .box-origin {
+        position: absolute;
+        top: 0;
+        left: 0;
+    }
+    </style>
+</head>
+
+<body>
+    <h1>Transform 2D</h1>
+    <h3>可忽略所有<code>:after</code>的样式</h3>
+    <h2>transform (translate & rotate)</h2>
+    <div class="container">
+        <div id="box1" class="box"></div>
+        <div id="box1-clone" class="box box-origin"></div>
+        <p>translate(50%) -> rotate(45deg)</p>
+    </div>
+    <br>
+    <style type="text/css">
+    #box1 {
+        transform: translate(50%) rotate(45deg);
+    }
+
+    #box1:after {
+        background: RED;
+        width: 15px;
+        height: 15px;
+        position: absolute;
+        left: 50%;
+        top: 50%;
+        content: "";
+        border-radius: 50%;
+        transform: translate(-50%, -50%);
+    }
+    </style>
+    <div class="container">
+        <div id="box2" class="box"></div>
+        <div class="box box-origin"></div>
+        <p>rotate(45deg) -> translate(50%)</p>
+    </div>
+    <br>
+    <style type="text/css">
+    #box2 {
+        transform: rotate(45deg) translate(50%);
+    }
+
+    #box2:after {
+        background: RED;
+        width: 15px;
+        height: 15px;
+        position: absolute;
+        left: 50%;
+        top: 50%;
+        content: "";
+        border-radius: 50%;
+        transform: translate(-50%, -50%);
+    }
+    </style>
+    <h2>translate-origin</h2>
+    <div class="container">
+        <div id="box3" class="box"></div>
+        <div class="box box-origin"></div>
+        <p>transform-origin: 100% 100%</p>
+    </div>
+    <br>
+    <style type="text/css">
+    #box3 {
+        transform-origin: 100% 100%;
+        transform: rotate(45deg);
+    }
+
+    #box3:after {
+        background: RED;
+        width: 15px;
+        height: 15px;
+        position: absolute;
+        left: 100%;
+        top: 100%;
+        content: "";
+        border-radius: 50%;
+        transform: translate(-50%, -50%);
+    }
+    </style>
+    <h3>scale</h3>
+    <div class="container">
+        <div id="box4" class="box"></div>
+        <div class="box box-origin"></div>
+        <p>scale(0.5)</p>
+    </div>
+    <br>
+    <style type="text/css">
+    #box4 {
+        transform: scale(0.5);
+    }
+
+    #box4:after {
+        background: RED;
+        width: 15px;
+        height: 15px;
+        position: absolute;
+        left: 50%;
+        top: 50%;
+        content: "";
+        border-radius: 50%;
+        transform: translate(-50%, -50%);
+    }
+    </style>
+    <div class="container">
+        <div id="box5" class="box"></div>
+        <div class="box box-origin"></div>
+        <p id="box-scale">rotate(45deg) scale(1.5, 2)</p>
+    </div>
+    <br>
+    <style type="text/css">
+    #box5 {
+        transform: rotate(45deg) scale(1.5, 2);
+    }
+
+    #box-scale:before {
+        background: RED;
+        width: 15px;
+        height: 15px;
+        position: absolute;
+        left: 75px;
+        top: 75px;
+        content: "";
+        border-radius: 50%;
+        transform: translate(-50%, -50%);
+    }
+    </style>
+
+    <h3>skew</h3>
+    <div class="container">
+      <div id="box6" class="box"></div>
+      <div class="box box-origin"></div>
+      <p>skew(-45deg, 45deg)</p>
+    </div>
+    <br>
+    <style type="text/css">
+    #box6 {
+      transform: skew(-45deg, 45deg);
+    }
+    #box6:after {
+      background: RED;
+      width: 15px;
+      height: 15px;
+      position: absolute;
+      left: 50%;
+      top: 50%;
+      content: "";
+      border-radius: 50%;
+      transform: translate(-50%, -50%);
+    }
+    </style>
+</body>
+
+</html>

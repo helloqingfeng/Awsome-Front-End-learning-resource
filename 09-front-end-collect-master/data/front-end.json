@@ -1,0 +1,481 @@
+{
+  "name": "前端资料收集",
+  "description": "在前端路上摸索前行，在这里分享自己长期关注的前端开发相关的优秀网站、博客、以及活跃开发者。",
+  "url": "https://github.com/hjzheng/front-end-collect",
+  "children": [
+    {
+      "name": "聚合&&周报订阅",
+      "description": "无",
+      "children": [
+        {
+          "name": "Html5 Weekly",
+          "size": 5534,
+          "url": "http://html5weekly.com/",
+          "description": "Html相关文章"
+        },
+        {
+          "name": "CSS Weekly",
+          "size": 5731,
+          "url": "http://css-weekly.com/",
+          "description": "CSS相关文章"
+        },
+        {
+          "name": "Javascript Weekly",
+          "size": 7840,
+          "url": "http://javascriptweekly.com/",
+          "description": "JS相关文章，同样也有 html,css 和工具相关"
+        },
+        {
+          "name": "Web Design Weekly",
+          "size": 7914,
+          "url": "http://web-design-weekly.com/",
+          "description": "设计、技术、技巧、工具聚合"
+        },
+        {
+          "name": "UX Weekly",
+          "size": 4416,
+          "url": "http://uxwkly.com/",
+          "description": "用户体验、网页设计相关"
+        },
+        {
+          "name": "Web Tools Weekly",
+          "size": 7700,
+          "url": "http://webtoolsweekly.com/",
+          "description": "JS, 工具推送"
+        },
+        {
+          "name": "RESPONSIVE DESIGN NEWSLETTER",
+          "size": 8900,
+          "url": "http://responsivedesignweekly.com/",
+          "description": "每周推送一次响应式设计相关"
+        },
+        {
+          "name": "Tutorialzine",
+          "size": 5000,
+          "url": "http://tutorialzine.com/",
+          "description": "精品教程和资源推送"
+        },
+        {
+          "name": "Sidebar",
+          "size": 4600,
+          "url": "http://sidebar.io/",
+          "description": "每天、每半周、每周推送5条设计相关"
+        },
+        {
+          "name": "The Hacker News Newsletter",
+          "size": 9600,
+          "url": "http://www.hackernewsletter.com/",
+          "description": "HN 每周精选"
+        },
+        {
+          "name": "Design News",
+          "size": 5600,
+          "url": "https://news.layervault.com/",
+          "description": "F2类资讯聚合"
+        },
+        {
+          "name": "HACKDESIGN",
+          "size": 4600,
+          "url": "http://hackdesign.org/",
+          "description": "每周发布一个设计类课程"
+        }
+      ]
+    },
+    {
+      "name": "专业博客",
+      "description": "无",
+      "children": [
+        {
+          "name": "中文博客",
+          "description": "无",
+          "children": [
+            {
+              "name": "W3Cplus",
+              "size": 4700,
+              "url": "http://www.w3cplus.com/",
+              "description": "国内最优秀的前端博客，原创居多"
+            },
+            {
+              "name": "W3Cfuns",
+              "size": 4700,
+              "url": "http://www.w3cfuns.com/",
+              "description": "专注于web前端开发行业的综合性门户网站"
+            },
+            {
+              "name": "前端观察",
+              "size": 6700,
+              "url": "http://www.qianduan.net/",
+              "description": "曾经最优秀，最近更新不频繁了"
+            },
+            {
+              "name": "腾讯web前端",
+              "size": 7800,
+              "url": "http://www.alloyteam.com/",
+              "description": "来自于腾讯SNG(社交网络事业群)"
+            },
+            {
+              "name": "张鑫旭-鑫空间-鑫生活",
+              "size": 8000,
+              "url": "http://www.zhangxinxu.com/wordpress/",
+              "description": "重构很厉害，不少经典文章经验"
+            },
+            {
+              "name": "ria之家",
+              "size": 4000,
+              "url": "http://www.36ria.com/",
+              "description": "无"
+            },
+            {
+              "name": "大前端",
+              "size": 4000,
+              "url": "http://www.daqianduan.com/",
+              "description": "无"
+            },
+            {
+              "name": "CSS森林",
+              "size": 8000,
+              "url": "http://www.cssforest.org/blog/",
+              "description": "无"
+            },
+            {
+              "name": "设计达人",
+              "size": 8000,
+              "url": "http://www.shejidaren.com/",
+              "description": "更新较频繁，但转载也较多"
+            },
+            {
+              "name": "Be For Web",
+              "size": 5000,
+              "url": "http://beforweb.com/",
+              "description": "关注移动应用及互联网产品、用户体验设计、前端开发"
+            }
+          ]
+        },
+        {
+          "name": "国外博客",
+          "description": "无",
+          "children": [
+            {
+              "name": "Smashing Magazine",
+              "size": 6700,
+              "url": "http://www.smashingmagazine.com/",
+              "description": "业界权威，web 设计很赞"
+            },
+            {
+              "name": "Tuts",
+              "size": 3200,
+              "url": "http://tutsplus.com/tutorials",
+              "description": "国外知名开发者网站"
+            },
+            {
+              "name": "Developer Drive",
+              "size": 5600,
+              "url": "http://www.developerdrive.com/",
+              "description": "优质前端技术信息"
+            },
+            {
+              "name": "CSS-TRICKS",
+              "size": 5000,
+              "url": "http://css-tricks.com/",
+              "description": "无"
+            },
+            {
+              "name": "Web Designer Wall",
+              "size": 7000,
+              "url": "http://webdesignerwall.com/",
+              "description": "优质 Html5,CSS3等教程"
+            },
+            {
+              "name": "Tutorialzine",
+              "size": 5200,
+              "url": "http://tutorialzine.com/",
+              "description": "大量 web 教程和资源"
+            },
+            {
+              "name": "Inspect Element",
+              "size": 6302,
+              "url": "http://inspectelement.com/",
+              "description": "CSS,wordpress 相关教程挺多"
+            },
+            {
+              "name": "Codrops",
+              "size": 4100,
+              "url": "http://tympanus.net/codrops/",
+              "description": "设计、交互、CSS"
+            },
+            {
+              "name": "Jake Rutter",
+              "size": 4700,
+              "url": "http://www.onerutter.com/",
+              "description": "Jquery 作者，不解释了"
+            },
+            {
+              "name": "Paul Irish",
+              "size": 4600,
+              "url": "http://www.paulirish.com/",
+              "description": "大神,Google Chrome团队,Yeoman"
+            },
+            {
+              "name": "Krasimir Tsonev",
+              "size": 5600,
+              "url": "http://krasimirtsonev.com/blog",
+              "description": "html5,css3,javascript"
+            },
+            {
+              "name": "NCZOnline",
+              "size": 4500,
+              "url": "http://www.nczonline.net/",
+              "description": "html5,css3,javascript"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "活跃微博",
+      "description": "无",
+      "children": [
+        {
+          "name": "@w3c中国",
+          "size": 3600,
+          "url": "http://weibo.com/w3cchina",
+          "description": "万维网联盟中国办事处官方微博"
+        },
+        {
+          "name": "@TheFrontEnd",
+          "size": 3800,
+          "url": "http://weibo.com/javascriptdev",
+          "description": "JavaScript技术资讯、新闻、教程、深度文章。"
+        },
+        {
+          "name": "@前端快爆",
+          "size": 4600,
+          "url": "http://weibo.com/fekb",
+          "description": "爆前端资讯，谈中外技术"
+        },
+        {
+          "name": "@HTML5中国",
+          "size": 4200,
+          "url": "http://weibo.com/html5cn",
+          "description": "html5学习、实战、交流平台html5中国www.html5cn.org官方微博"
+        },
+        {
+          "name": "@developerWorks",
+          "size": 4700,
+          "url": "http://weibo.com/developerworks",
+          "description": "码农周刊（manong.io）& 开发者头条（toutiao.io）"
+        }
+      ]
+    },
+    {
+      "name": "开发者",
+      "description": "微博微信流行后，明显感觉到写博客的人还是越来越少了，下面推荐的这些开发者属于在网上比较活跃的，或者博客积累了大量优质资源的。",
+      "children": [
+        {
+          "name": "阮一峰",
+          "size": 2600,
+          "url": "http://www.ruanyifeng.com/blog/",
+          "description": "阮一峰，70后，英文名Frank。他原是上海财经大学世界经济博士研究生。主要研究宏观金融、货币政策与美国经济。"
+        },
+        {
+          "name": "老赵",
+          "size": 2700,
+          "url": "http://blog.zhaojie.me/",
+          "description": "赵劼，网名老赵，洋名Jeffrey Zhao，花名赵姐夫，金融行业程序员，目前就职于摩根大通（香港）。"
+        },
+        {
+          "name": "玉伯",
+          "size": 2800,
+          "url": "https://github.com/lifesinger",
+          "description": "seajs作者"
+        },
+        {
+          "name": "kejun",
+          "size": 2600,
+          "url": "http://hikejun.com/",
+          "description": "张克军，豆瓣前端工程师"
+        },
+        {
+          "name": "winter",
+          "size": 2900,
+          "url": "http://winter-cn.cnblogs.com/",
+          "description": "无"
+        },
+        {
+          "name": "左耳朵耗子",
+          "size": 3400,
+          "url": "http://coolshell.cn/",
+          "description": "陈皓（@左耳朵耗子），酷壳coolshell.cn博主。14年软件开发相关工作经验，8年以上项目和团队管理经验，6年的软件行业咨询经验。"
+        },
+        {
+          "name": "朴灵",
+          "size": 2500,
+          "url": "https://github.com/JacksonTian",
+          "description": "淘宝数据平台产品部资深前端开发工程师 朴灵"
+        },
+        {
+          "name": "陈广琛",
+          "size": 3000,
+          "url": "http://catchen.biz/home.zh-CN.html",
+          "description": "陈广琛（网名 Cat Chen），前端工程师，现就职于 Facebook。"
+        },
+        {
+          "name": "BYVod",
+          "size": 3200,
+          "url": "https://www.byvoid.com/",
+          "description": "就职于Facebook(英国)"
+        },
+        {
+          "name": "郭宇",
+          "size": 2800,
+          "url": "http://blog.guoyu.me/",
+          "description": "就职于支付宝"
+        },
+        {
+          "name": "大猫",
+          "size": 2600,
+          "url": "http://bigc.at/",
+          "description": "无"
+        },
+        {
+          "name": "C7120",
+          "size": 2700,
+          "url": "http://beforweb.com/",
+          "description": "UX玩家、交互设计师、猫奴、guitar fucker，现就职于腾讯ISUX(上海)"
+        },
+        {
+          "name": "lucifr",
+          "size": 3000,
+          "url": "",
+          "description": "Geek | 拖延症患者 | 间歇性话痨 | 爱 Google | 爱 Mac | Hackintosher | Octopressor | Nikon D90 | Bookmarker | and more."
+        },
+        {
+          "name": "Smallni",
+          "size": 3200,
+          "url": "http://www.smallni.com",
+          "description": "本名丁小倪，小名小倪，英文名Smallni，混迹于互联网，目前在南极洲企鹅村打杂，崇尚简单一目了然的设计风格，注重代码的性能和易维护性，也关注信息无障碍和用户心理学。有点不自信，所以正在努力学习，为早日成为祖国的可树之才而努力。目前同时兼职于W3C CSS工作组和HTML工作组，致力于为WEB标准贡献自己的绵薄之力。"
+        },
+        {
+          "name": "TQ",
+          "size": 2700,
+          "url": "http://targetkiller.net/",
+          "description": "Hi，我是TQ，刚毕业小前端，现就职腾讯ISUX。喜欢折腾前端技术，关注互联网前沿资讯，崇尚简洁至上的设计和交互。"
+        },
+        {
+          "name": "LOO2K",
+          "size": 3400,
+          "url": "http://loo2k.com/blog/",
+          "description": "无"
+        },
+        {
+          "name": "周爱民",
+          "size": "3200",
+          "url": "http://blog.csdn.net/aimingoo/",
+          "description": "国内软件开发界资深软件工程师，从1996年开始涉足商业软件开发，历任部门经理、区域总经理、高级软件工程师、平台架构师等职。周爱民先生在软件开发、软件工程、团队建设以及部门管理方面经验丰富，是Borland Delphi产品技术专家，也是Qomo开源项目（JavaScript）的发起者。在JavaScript开发方面，有超过9年的实践经验。"
+        },
+        {
+          "name": "司徒正美",
+          "size": 3500,
+          "url": "http://www.cnblogs.com/rubylouvre",
+          "description": "无"
+        },
+        {
+          "name": "安记",
+          "size": 2200,
+          "url": "http://cssha.com/",
+          "description": "Hi，我是阿安,双子座，宅男，喜欢编程，更爱足球。现居北京，就职于去哪儿网，前端开发工程师。"
+        }
+      ]
+    },
+    {
+      "name": "社区",
+      "description": "",
+      "children": [
+        {
+          "name": "V2EX",
+          "size": 3000,
+          "url": "http://v2ex.com/",
+          "description": "小众活跃社区"
+        },
+        {
+          "name": "Node.js 中文社区",
+          "size": 6000,
+          "url": "http://cnodejs.org/",
+          "description": "Node.js 国内最活跃的社区"
+        }
+      ]
+    },
+    {
+      "name": "企业博客",
+      "description": "",
+      "children": [
+        {
+          "name": "ISUX 社交用户体验设计",
+          "size": 9000,
+          "url": "http://isux.tencent.com/",
+          "description": "负责腾讯的社交网络相关产品的用户体验设计与研究。"
+        },
+        {
+          "name":"腾讯 CDC",
+          "size": 4700,
+          "url": "http://cdc.tencent.com/",
+          "description":"CDC成立于2006年5月18日,全称是Customer Research & User Experience Design Center（即用户研究与体验设计中心）作为腾讯的核心部门之一。CDC自成立以来，就一直向着“做世界一流的互联网设计团队，为用户创造优质‘在线生活’体验”这一愿景努力，致力于不断提升腾讯全线产品的用户体验。"
+        },
+        {
+          "name":"TID",
+          "size":7000,
+          "url":"http://tid.tenpay.com/",
+          "description":"腾讯财付通设计中心"
+        },
+        {
+          "name":"MXD",
+          "size":7000,
+          "url":"http://mxd.tencent.com/",
+          "description": "腾讯MXD移动互联网设计中心"
+        },
+        {
+          "name":"新浪UED",
+          "size":5000,
+          "url":"http://ued.sina.com.cn/",
+          "description": "无"
+        },
+        {
+          "name":"网易UED",
+          "size":4000,
+          "url":"http://uedc.163.com/",
+          "description":"网易用户体验设计中心（User Experience Design Center），简称“设计中心（UEDC）”，成立于2008年底。"
+        },
+        {
+          "name":"阿里巴巴（中国站）UED",
+          "size": 6000,
+          "url":"http://www.aliued.cn/",
+          "description":"阿里巴巴中国站UED成立于1999年，全称是用户体验设计部（User Experience Design Department），花名为“有一点”，是阿里巴巴集团最资深的部门之一。"
+        },
+        {
+          "name":"携程UED",
+          "size": 6000,
+          "url":"http://ued.ctrip.com/blog/",
+          "description":"携程UED,携程前端开发团队,UED,Javascript,重构,ux"
+        },
+        {
+          "name":"百度FEX",
+          "size": 6000,
+          "url":"http://fex.baidu.com/",
+          "description":"百度前端团队Blog,关注前端技术，还更重视全端及全栈的能力"
+        }
+      ]
+    },
+    {
+      "name": "书籍",
+      "description": "",
+      "children": [
+        {
+          "name": "JavaScript语言精粹",
+          "size": 3000,
+          "url": "http://book.douban.com/subject/3590768/",
+          "description": "绝对经典，相信看完后，对Javascript这门语言有了重新认识，原来这个语言是这么的美丽！"
+        }
+      ]
+    }
+  ]
+}

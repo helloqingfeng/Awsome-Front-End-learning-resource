@@ -1,0 +1,39 @@
+{
+  "name": "WebFrontEndStack",
+  "version": "2.0.0",
+  "description": "Generate a image for web front-end stack.",
+  "main": "index.js",
+  "scripts": {
+    "build": "node index --phantomjs --readme",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/unruledboy/WebFrontEndStack.git"
+  },
+  "keywords": [
+    "Web",
+    "FrontEnd",
+    "Stack"
+  ],
+  "author": [
+    "unruledboy <unruledboy@gmail.com>",
+    "zsx <zsx@zsxsoft.com>"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/unruledboy/WebFrontEndStack/issues"
+  },
+  "homepage": "https://github.com/unruledboy/WebFrontEndStack",
+  "dependencies": {
+    "async": "^1.4.2",
+    "command-line-args": "^1.0.1",
+    "express": "^4.13.3",
+    "phantomjs-promise": "0.0.1",
+    "request": "^2.61.0"
+  }, 
+  "devDependencies": {
+    "phantomjs": "^1.9.18",
+    "weak": "^1.0.0"
+  }
+}

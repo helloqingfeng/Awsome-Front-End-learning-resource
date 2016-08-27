@@ -1,0 +1,70 @@
+###前端开发的技术栈
+![front-end dev skills](https://raw.githubusercontent.com/dwqs/fedHandlebook/master/images/front-end-skills.png)
+
+对于任何类型的前端开发人员, HTML, CSS, DOM, JavaScript, HTTP/URL 和浏览器利用是基本的技术要求.
+
+对于HTML, CSS, DOM, JavaScript, HTTP/URL 和浏览器开发之外的, 一个前端开发者还应该掌握下面技术列表中的一个或多个:
+
+* Content Management System (内容管理系统, 又称 CMS)
+* Node.js
+* Cross-browser testing (跨浏览器测试)
+* Cross-platform testing (跨平台测试)
+* Unit Testing (单元测试)
+* Cross-device testing (跨设备测试)
+* Accessibility / WAI-ARIA (无障碍访问/无障碍富Internet应用程序)
+* Search Engine Optimization (搜索引擎优化, 又称 SEO)
+* Interaction or User Interface design (交互或用户设计)
+* User Experience (用户体验)
+* Usability (可用性/易用性)
+* E-commerce Systems (电子商务系统)
+* Portal Systems (门户系统)
+* Wireframing (框架)
+* CSS layout / Grids (CSS 布局/栅格系统)
+* DOM manipulation (e.g. jQuery) (DOM 操作)
+* Mobile Web Performance (移动Web性能)
+* Load Testing (载荷测试)
+* Performance Testing (性能测试)
+* Progressive Enhancement / Graceful Degradation (渐进增强/优雅降级)
+* Version Control (e.g. GIT) (版本控制)
+* MVC / MVVM / MV* (MV* 框架)
+* Functional Programming (函数式编程)
+* Data Formats (e.g. JSON, XML) (数据格式)
+* Data API's (e.g Restful API) (数据API)
+* Web Font Embedding (Web字体嵌入)
+* Scalable Vector Graphics (可伸缩向量图形, 又称 SVG)
+* Regular Expressions (正则表达式)
+* Content Strategy (内容策略)
+* Microdata / Microformats (微数据/微格式)
+* Task Runners, Build Tools, Process Automation Tools (任务管道, 构建工具, 过程自动化工具)
+* Responsive Web Design (响应式设计)
+* Object Oriented Programming (面向对象编程)
+* Application Architecture (应用架构)
+* Modules (模块)
+* Dependency Managers (依赖关系管理)
+* Package Managers (包管理)
+* JavaScript Animation (JavaScript 动画)
+* CSS Animation (CSS 动画)
+* Charts / Graphs (图表/图形)
+* UI widgets (UI工具集)
+* Code Quality Testing (代码质量测试)
+* Code Coverage Testing (代码覆盖测试)
+* Code Complexity Analysis (代码复杂度测试)
+* Integration Testing (集成测试)
+* Command Line / CLI (命令行/命令行界面)
+* Templating Strategies (模板策略)
+* Templating Engines (模板引擎)
+* Single Page Applications (单页应用)
+* XHR Requests (aka AJAX) (XHR 请求, 又称 AJAX)
+* Web/Browser Security (Web/浏览器安全)
+* HTML Semantics (HTML 语义化)
+* Browser Developer Tools (浏览器开发者工具)
+
+
+译者补充:
+
+* [前端技能汇总](https://github.com/JacksonTian/fks)
+* [WebFrontEndStack](https://github.com/unruledboy/WebFrontEndStack)
+
+![front-end-skills1](https://raw.githubusercontent.com/dwqs/fedHandlebook/master/images/front-end-skill1.jpg)
+
+![front-end-skills2](https://raw.githubusercontent.com/dwqs/fedHandlebook/master/images/front-end-skill2.png)

@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Transition</title>
+    <style type="text/css">
+    body {
+        margin: 50px;
+        text-align: center;
+        position: relative;
+        margin: ;
+        100px 0;
+    }
+
+    .container {
+        position: relative;
+        margin: 100px 10px;
+        display: inline-block;
+        perspective: 500px;
+    }
+
+    .box {
+        width: 150px;
+        height: 150px;
+        border: 3px solid black;
+        background-color: rgba(138, 161, 64, .5);
+    }
+
+    .box-origin {
+        position: absolute;
+        top: 0;
+        left: 0;
+        z-index: -999;
+    }
+    </style>
+</head>
+
+<body>
+    <h1> 动画 - Transition </h1>
+    <h2>transition</h2>
+    <div class="container">
+        <div id="box1" class="box"></div>
+        <div class="box box-origin"></div>
+        <p>无过度</p>
+    </div>
+    <div class="container">
+        <div id="box2" class="box"></div>
+        <div class="box box-origin"></div>
+        <p>有过度</p>
+    </div>
+    <style>
+    #box1:hover {
+        transform: rotate(45deg);
+    }
+
+    #box2:hover {
+        transition-delay: .3s;
+        transform: rotate(45deg);
+        transition: 1s;
+    }
+    </style>
+    <h2>transition-property</h2>
+    <div class="row">
+        <div class="box hover-demo" id="box3">
+            <p>none</p>
+        </div>
+    </div>
+    <style type="text/css">
+    .row {
+        position: relative;
+        margin: 10px;
+        height: 155px;
+        background: rgba(187, 198, 145, 0.5);
+        border: 3px dashed rgba(135, 162, 64, 1);
+    }
+
+    #box3 {
+        border-radius: 50%;
+        position: absolute;
+        top: 0;
+        left: 0;
+        font-size: 3rem;
+    }
+
+    #box3:hover {
+        transition-delay: .3s;
+        transition: 2s;
+        transition-property: none;
+        left: calc(100% - 150px);
+        color: white;
+        top: 0;
+    }
+    </style>
+    <div class="row">
+        <div class="box hover-demo" id="box4">
+            <p>all</p>
+        </div>
+    </div>
+    <style type="text/css">
+    #box4 {
+        border-radius: 50%;
+        position: absolute;
+        top: 0;
+        left: 0;
+        font-size: 3rem;
+    }
+
+    #box4:hover {
+        transition-delay: .3s;
+        transition: 2s;
+        transition-property: all;
+        color: white;
+        left: calc(100% - 150px);
+        top: 0;
+    }
+    </style>
+    <div class="row">
+        <div class="box hover-demo" id="box5">
+            <p>left</p>
+        </div>
+    </div>
+    <style type="text/css">
+    #box5 {
+        border-radius: 50%;
+        transition-property: all;
+        position: absolute;
+        top: 0;
+        left: 0;
+        font-size: 3rem;
+    }
+
+    #box5:hover {
+        transition-delay: .3s;
+        transition: 2s;
+        transition-property: left;
+        color: white;
+        left: calc(100% - 150px);
+        top: 0;
+    }
+    </style>
+    <div class="row">
+        <div class="box hover-demo" id="box6">
+            <p>color</p>
+        </div>
+    </div>
+    <style type="text/css">
+    #box6 {
+        border-radius: 50%;
+        transition-property: all;
+        position: absolute;
+        top: 0;
+        left: 0;
+        font-size: 3rem;
+    }
+
+    #box6:hover {
+        transition-delay: .3s;
+        transition: 2s;
+        transition-property: color;
+        color: white;
+        left: calc(100% - 150px);
+        top: 0;
+    }
+    </style>
+    <h2>多个动画，多个时间</h2>
+    <div class="row">
+        <div class="box hover-demo" id="box7">
+            <p>multipe</p>
+        </div>
+    </div>
+    <style type="text/css">
+    #box7 {
+        border-radius: 50%;
+        position: absolute;
+        top: 0;
+        left: 0;
+        font-size: 3rem;
+    }
+
+    #box7:hover {
+        transition-delay: .3s;
+        transition-property: left, color, border-radius;
+        transition-duration: 1s, 3s, 8s;
+        color: white;
+        border-radius: 0;
+        left: calc(100% - 150px);
+        top: 0;
+    }
+    </style>
+</body>
+
+</html>
