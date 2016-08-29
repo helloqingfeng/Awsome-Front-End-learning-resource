@@ -1,14 +1,17 @@
 # 在GitHub上收集的最全的前端资源汇总（包括前端学习、前端开发资源、前端求职面试等）
 
+![](http://ww3.sinaimg.cn/large/66101050jw1f78o4duzv6j20sg0eut9y.jpg)
+
 > 个人结合github上各位大神分享的资源进行了简单的汇总整理，每一个条目下面都有丰富的资料，是前端学习、工作的好帮手。
 
 **说明:** 整理有不当之处, 欢迎 [pr](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource/pulls) 或提出 [issue](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource/issues)。
 
-![](http://ww3.sinaimg.cn/large/66101050jw1f78o4duzv6j20sg0eut9y.jpg)
+## 更新日志：
+**20160829：**
+- 增加100+ 超全的web开发工具和资源
+- 增加Web前端开发规范文档
 
 **关于我：** 微博: <a href='http://weibo.com/helloqingfeng' target='_blank'>@青丰与名月</a>
-
-
 
 <br>
 
