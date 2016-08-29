@@ -1,13 +1,20 @@
-> 摘要：整合 WEB 开发包含的 JavaScript 库，前端框架，Web 应用框架，任务批处理工具 / 包管理器，编程语言 / 开发平台，数据库，icon 图标，本地开发环境搭建，协作工具，Web 开发社区，未能一一整合，欢迎评论提交哦。
+# 100+ 超全的web开发工具和资源
+
+> 整合 WEB 开发包含的 JavaScript 库，前端框架，Web 应用框架，任务批处理工具 / 包管理器，编程语言 / 开发平台，数据库，icon 图标，本地开发环境搭建，协作工具，Web 开发社区，未能一一整合，欢迎评论提交哦。
+
+![](http://ww4.sinaimg.cn/large/66101050jw1f7axgo2hbtj20l808cjss.jpg)
 
 **英文原文：** [https://www.keycdn.com/blog/web-development-tools/](https://www.keycdn.com/blog/web-development-tools/)
+
 **转载出处：** https://xituqu.com/170.html
+
 **译者：** 稀土区
 
 作为Web开发者，这是好的时代，也是坏的时代。Web开发技术也在不断变化。虽然很令人兴奋，但是这也意味着Web开发人员需要要积极主动的学习新技术和新的[编程语言](https://xituqu.com/tag/programing-language)，并愿意和渴望接受新的挑战，以适应变化。新的挑战可能会包括一些开发上的要求，如利用适应现有的[框架](https://xituqu.com/tag/framework)来满足业务需求。测试一个网站，能从中知道出了哪些技术上的问题，并且我们针对这些问题进行优化和消除。便于后端的开发进程加快和测试。所以我们列出了完整的[web](https://xituqu.com/tag/web)开发所需要的工具和资源，助力开发者提高开发效率！学不止步，让我们努力成为一个优秀的开发者！
 
 ### Web开发工具和资源整合
 在这里说声抱歉，对于开发者开发使用的工具，我们无法一一囊括，这里是选取较为热门的工具和资源作为范例。我们希望能从中找到适合自己的工具助力自己的开发！
+
 注：工具和资源排序不分先后。
 
 ### JavaScript库
@@ -217,12 +224,12 @@ Diff checkers 可以帮助您比较文件之间的差异，然后合并更改。
 
 ### [Web开发新闻聚合](https://xituqu.com/tag/web-news)
 [![100+ 超全的web开发工具和资源-稀土区](https://blog.keycdn.com/blog/wp-content/uploads/2016/02/web-development-newsletters.webp)](https://ww1.sinaimg.cn/large/72f96cbagw1f49em7ogivj20k506e74n)阅读开发和设计的技术干货，及时的知道技术圈内更新了什么，保持信息流新鲜，有助于我们更好的开发！
-国内：
+**国内：**
 [掘金](http://gold.xitu.io/#/)：掘金是中国质量最高的技术分享社区，邀请稀土用户作为Co-Editor 来分享优质的技术干货，从前端到后端开发，从设计到产品，让每一个*掘金*用户都能挖掘到有价值的干货。
 [开发者头条](http://toutiao.io/)：一个以程序员为中心，基于学习和分享的开发者社区。你可以阅读头条新闻、分享技术文章、发布开源项目，订阅技术极客们创建的学习主题和关注编程牛人。
 [推酷](http://www.tuicool.com/)：以技术为驱动，以聚合挖掘为核心，打造个性推荐和订阅，给你一站式的阅读。 更汇聚优质公开课和线下活动，让信息知识获取更便捷。
 
-国外：
+**国外：**
 [wdrl.info](https://wdrl.info/)：精心挑选的Web开发相关资源，每星期进行整合报道。
 [webopsweekly.com](http://webopsweekly.com/)： 每周进行报道关于网络运营，应用部署，网站性能和工具分享类的文章。
 [web tools weekly](http://webtoolsweekly.com/)：专注于前端开发和网页设计工具分享。每一个问题都有一个简短的提示或教程，另外每周都会分享的各种应用程序、脚本、插件和其他有用的资源。
@@ -230,7 +237,7 @@ Diff checkers 可以帮助您比较文件之间的差异，然后合并更改。
 [smashingmagazine.com](https://www.smashingmagazine.com/)： Smashing Magazine是一款专门为个人前端开发者和设计师提供的在线报纸，每周二都会定时的更新有用的资源。
 [front-end dev weekly](http://frontenddevweekly.com/): 每周为前端开发者提供新闻, 包含工具资源，还有灵感。
 [friday front-end](http://fridayfrontend.com/)：邮件订阅，每日为前端开发者发关于开发资源的邮件。
-[/dev tips](https://umaar.com/dev-tips/): 收集开发者的问题和建议, 用gif呈现，会每周发邮件通知。
+[dev tips](https://umaar.com/dev-tips/): 收集开发者的问题和建议, 用gif呈现，会每周发邮件通知。
 
 当然, 你也可以关注稀土区，来找到你需要的文章，顺便解决你的问题。
 

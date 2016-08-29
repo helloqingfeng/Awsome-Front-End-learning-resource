@@ -45,6 +45,12 @@
 
 源地址：https://github.com/nicejade/Front-end-tutorial
 
+## [100+ 超全的web开发工具和资源](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource/tree/master/24-100+Web-Development-Tools-and-Resources)
+
+译者：稀土区 https://xituqu.com/
+
+源地址：https://xituqu.com/170.html
+
 ## [前端技能汇总](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource/tree/master/05-fks-master)
 
 作者：Jackson Tian https://github.com/JacksonTian
