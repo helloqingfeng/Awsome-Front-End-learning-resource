@@ -135,6 +135,13 @@
 
 源地址：https://github.com/IonicChina/Mobile-front-end-tutorial
 
+##  [Web前端开发规范文档](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource/tree/master/25-web-develop-standard-master)
+
+作者：kc https://github.com/kangcafe
+
+源地址：https://github.com/kangcafe/web_develop_standard
+
+
 ## [适用于小团队的前端规范](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource/tree/master/18-fun-front-end-tutorials-master)
 
 作者：hzlzh https://github.com/hzlzh
