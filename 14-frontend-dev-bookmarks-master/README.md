@@ -50,8 +50,8 @@
   + [Grunt](http://www.gruntjs.org/article/home.html) 构建工具
  
 + 前端成长
-  + [十日谈](http://hi.baidu.com/lijing00333/item/1c28309d8b46c7d41e427118) 看过几遍，对我这种刚入门有点迷茫的人特别有用
-  + [WEB前端研发工程师编程能力成长之路](http://targetkiller.net/how-to-be-a-good-frontender/) 我大概输入登堂那级别吧，长路漫漫
+  + [十日谈](https://github.com/jayli/jayli.github.com/issues) 看过几遍，对我这种刚入门有点迷茫的人特别有用
+  + [WEB前端研发工程师编程能力成长之路](http://www.cnblogs.com/eric6/archive/2011/03/23/1991777.html) 我大概输入登堂那级别吧，长路漫漫
 
 + 书籍
   + [CSS权威指南](http://book.douban.com/subject/1240134/) 权威指南的书，水准都有保证，适合度也很广
