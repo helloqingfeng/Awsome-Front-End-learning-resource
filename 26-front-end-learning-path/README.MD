@@ -8,7 +8,7 @@
 
 - [阅读更多有关前端工程师](https://www.h5jun.com/post/to-be-a-good-frontend-engineer)
 
-**作者：** 余博伦 https://github.com/discountry
+**作者：** 余博伦 https://github.com/akira-cn
 
 链接：https://zhuanlan.zhihu.com/p/21935921
 
