@@ -29,7 +29,7 @@
 
 ## [前端学习路径](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource/tree/master/26-front-end-learning-path)
 
-作者： 余博伦 https://github.com/akira-cn
+作者： 余博伦 https://github.com/discountry
 
 源地址：https://zhuanlan.zhihu.com/p/21935921
 
