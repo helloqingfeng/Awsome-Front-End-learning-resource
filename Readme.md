@@ -7,6 +7,10 @@
 **说明:** 整理有不当之处, 欢迎 [pr](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource/pulls) 或提出 [issue](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource/issues)。
 
 ## 更新日志：
+**20160831：**
+- 增加前端学习路径
+
+
 **20160829：**
 - 增加100+ 超全的web开发工具和资源
 - 增加Web前端开发规范文档
@@ -21,6 +25,13 @@
 作者：qiu https://github.com/qiu-deqing
 
 源地址：https://github.com/qiu-deqing/FE-learning
+
+
+## [前端学习路径](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource/tree/master/26-front-end-learning-path)
+
+作者： 余博伦 https://github.com/akira-cn
+
+源地址：https://zhuanlan.zhihu.com/p/21935921
 
 
 ## [前端开发者手册](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource/tree/master/02-fedHandlebook-master)(学习前端的实践手册)
