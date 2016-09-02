@@ -206,10 +206,10 @@
 
 ---
 
-**声明：** 版权归原作者所有，我只是搬运工。
+> 编程无他，唯手熟尔！
 
-<<<<<<< HEAD
+声明：** 版权归原作者所有，我只是搬运工。
+
 Photo Credit：[Negative Space](https://unsplash.com/photos/6g0KJWnBhxg)
-=======
-头图来源：[课多周刊](https://www.w3crange.com/)
->>>>>>> origin/master
+
+
