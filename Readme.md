@@ -1,6 +1,6 @@
 # 在GitHub上收集的最全的前端资源汇总（包括前端学习、前端开发资源、前端求职面试等）
 
-![](http://ww3.sinaimg.cn/large/66101050jw1f78o4duzv6j20sg0eut9y.jpg)
+![](http://ww1.sinaimg.cn/large/66101050jw1f7f4yf9xcvj21jk111wk9.jpg)
 
 > 个人结合github上各位大神分享的资源进行了简单的汇总整理，每一个条目下面都有丰富的资料，是前端学习、工作的好帮手。
 
@@ -15,7 +15,7 @@
 - 增加100+ 超全的web开发工具和资源
 - 增加Web前端开发规范文档
 
-**关于我：** 微博: <a href='http://weibo.com/helloqingfeng' target='_blank'>@青丰与名月</a>
+**关于我：** 微博: [@青丰与名月](http://weibo.com/helloqingfeng)
 
 <br>
 
@@ -182,7 +182,7 @@
 
 源地址：https://mdluo.github.io/blog/about-front-end-interview/
 
-## [前端面试问题集锦](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource/tree/master/21-Front-end-Interview-questions) 
+## [前端面试问题集锦](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource/tree/master/21-Front-end-Interview-questions)
 
 作者： trigkit4    https://github.com/hawx1993
 
@@ -208,4 +208,4 @@
 
 **声明：** 版权归原作者所有，我只是搬运工。
 
-头图来源：[课多周刊](https://www.w3crange.com/)
+Photo Credit：[Negative Space](https://unsplash.com/photos/6g0KJWnBhxg)
