@@ -7,9 +7,11 @@
 **说明:** 整理有不当之处, 欢迎 [pr](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource/pulls) 或提出 [issue](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource/issues)。
 
 ## 更新日志：
+**20160915：**
+- 增加前端开发规范手册（作者：阿树）
+
 **20160831：**
 - 增加前端学习路径
-
 
 **20160829：**
 - 增加100+ 超全的web开发工具和资源
@@ -37,9 +39,11 @@
 ## [前端开发者手册](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource/tree/master/02-fedHandlebook-master)(学习前端的实践手册)
 作者：Pomy https://github.com/dwqs
 
-源地址：https://github.com/dwqs/fedHandlebook
+中文源地址：https://github.com/dwqs/fedHandlebook
 
 阅读地址：https://dwqs.gitbooks.io/frontenddevhandbook/content/
+
+英文原版地址：https://www.frontendhandbook.com/
 
 资源下载: <a href='http://pan.baidu.com/s/1c0frhIS' target='_blank'>pdf</a>  <a href='https://www.gitbook.com/book/dwqs/frontenddevhandbook/details' target='_blank'>mobi</a>
 
@@ -148,6 +152,15 @@
 作者：Ionic China https://github.com/IonicChina
 
 源地址：https://github.com/IonicChina/Mobile-front-end-tutorial
+
+## [前端开发规范手册](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource/tree/master/27-front-end-style-guide)
+作者：阿树 https://github.com/Aaaaaashu
+
+源地址：https://github.com/Aaaaaashu/Guide
+
+阅读地址：http://zhibimo.com/read/Ashu/front-end-style-guide/
+
+
 
 ##  [Web前端开发规范文档](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource/tree/master/25-web-develop-standard-master)
 
