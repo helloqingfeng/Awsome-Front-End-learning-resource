@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="12px" height="12px" viewBox="0 0 23 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.5.1 (25234) - http://www.bohemiancoding.com/sketch -->
+    <title>min-oss</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="min-new" sketch:type="MSLayerGroup" transform="translate(-26.000000, 0.000000)" fill="#3A934A">
+            <g id="min-oss" transform="translate(26.000000, 0.000000)" sketch:type="MSShapeGroup">
+                <path d="M11.5,22.3191231 C17.4752367,22.3191231 22.3191231,17.4752367 22.3191231,11.5 C22.3191231,5.52476331 17.4752367,0.680876904 11.5,0.680876904 C5.52476331,0.680876904 0.680876904,5.52476331 0.680876904,11.5 C0.680876904,17.4752367 5.52476331,22.3191231 11.5,22.3191231 Z M13.7189293,11.29773 C13.5206877,10.1913778 12.5877316,9.38873438 11.5,9.38873438 C10.4122683,9.38873438 9.47931236,10.1913778 9.28107065,11.29773 C9.08282899,12.4040823 9.67571809,13.499293 10.6911897,13.9025636 L9.17105938,18 C6.24633941,16.8387641 4.53859924,13.6845477 5.10944128,10.4981432 C5.68028334,7.31173881 8.36724545,5 11.5,5 C14.6327545,5 17.3197166,7.31173881 17.8905587,10.4981432 C18.4614008,13.6845477 16.7536605,16.8387641 13.8289406,18 L12.3088103,13.9025636 C13.3242819,13.499293 13.917171,12.4040823 13.7189293,11.29773 Z" id="Oval-14"></path>
+            </g>
+        </g>
+    </g>
+</svg>

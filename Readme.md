@@ -7,6 +7,9 @@
 **说明:** 整理有不当之处, 欢迎 [pr](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource/pulls) 或提出 [issue](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource/issues)。
 
 ## 更新日志：
+**20160916：**
+- 增加大前端工具集（作者：聂微东）
+
 **20160915：**
 - 增加前端开发规范手册（作者：阿树）
 
@@ -45,7 +48,8 @@
 
 英文原版地址：https://www.frontendhandbook.com/
 
-资源下载: <a href='http://pan.baidu.com/s/1c0frhIS' target='_blank'>pdf</a>  <a href='https://www.gitbook.com/book/dwqs/frontenddevhandbook/details' target='_blank'>mobi</a>
+资源下载: [PDF版](http://pan.baidu.com/s/1c0frhIS)
+[MOBI版](https://www.gitbook.com/book/dwqs/frontenddevhandbook/details)
 
 ## [前端开发笔记本](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource/tree/master/03-FEND_Note-master)
 
@@ -55,13 +59,20 @@
 
 阅读地址：http://li-xinyang.gitbooks.io/frontend-notebook/
 
-资源下载: <a href='https://www.gitbook.com/download/pdf/book/li-xinyang/frontend-notebook' target='_blank'>pdf</a>
+资源下载: [PDF版](https://www.gitbook.com/download/pdf/book/li-xinyang/frontend-notebook)
 
 ## [最全的资源教程——前端涉及的所有知识体系](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource/tree/master/04-Front-end-tutorial-master)
 
 作者：JadeYang https://github.com/nicejade
 
 源地址：https://github.com/nicejade/Front-end-tutorial
+
+## [大前端工具集——程序猿的百宝箱](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource/tree/master/28-fetool-master) （0916）
+作者：聂微东 https://github.com/nieweidong
+
+源地址：https://github.com/nieweidong/fetool
+
+阅读地址：http://www.fefork.com/fetool
 
 ## [100+ 超全的web开发工具和资源](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource/tree/master/24-100+Web-Development-Tools-and-Resources)
 
@@ -159,8 +170,6 @@
 源地址：https://github.com/Aaaaaashu/Guide
 
 阅读地址：http://zhibimo.com/read/Ashu/front-end-style-guide/
-
-
 
 ##  [Web前端开发规范文档](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource/tree/master/25-web-develop-standard-master)
 
