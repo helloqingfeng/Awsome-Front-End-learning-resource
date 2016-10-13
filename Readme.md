@@ -7,6 +7,9 @@
 **说明:** 整理有不当之处, 欢迎 [pr](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource/pulls) 或提出 [issue](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource/issues)。
 
 ## 更新日志：
+**20161013：**
+- 增加 Google面试宝典（作者：John Washam）
+
 **20160916：**
 - 增加大前端工具集（作者：聂微东）
 
@@ -48,8 +51,9 @@
 
 英文原版地址：https://www.frontendhandbook.com/
 
-资源下载: [PDF版](http://pan.baidu.com/s/1c0frhIS)
-[MOBI版](https://www.gitbook.com/book/dwqs/frontenddevhandbook/details)
+资源下载: 
+- [PDF版](http://pan.baidu.com/s/1c0frhIS)
+- [MOBI版](https://www.gitbook.com/book/dwqs/frontenddevhandbook/details)
 
 ## [前端开发笔记本](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource/tree/master/03-FEND_Note-master)
 
@@ -225,6 +229,14 @@
 作者：qiu https://github.com/qiu-deqing
 
 源地址：https://github.com/qiu-deqing/FE-interview
+
+## [一套完整的学习手册帮助自己准备 Google 的面试](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource/tree/master/29-google-interview-university)
+
+原文作者：[John Washam](https://github.com/jwasham/google-interview-university)
+译文出自：[掘金翻译计划](https://github.com/xitu/gold-miner)
+译者：：[Aleen](https://github.com/aleen42)，[Newton](https://github.com/Newt0n)，[bobmayuze](https://github.com/bobmayuze)，[Jaeger](https://github.com/laobie)，[sqrthree](https://github.com/sqrthree)
+
+源地址：https://github.com/jwasham/google-interview-university
 
 ---
 
