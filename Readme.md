@@ -233,7 +233,9 @@
 ## [一套完整的学习手册帮助自己准备 Google 的面试](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource/tree/master/29-google-interview-university)
 
 原文作者：[John Washam](https://github.com/jwasham/google-interview-university)
+
 译文出自：[掘金翻译计划](https://github.com/xitu/gold-miner)
+
 译者：：[Aleen](https://github.com/aleen42)，[Newton](https://github.com/Newt0n)，[bobmayuze](https://github.com/bobmayuze)，[Jaeger](https://github.com/laobie)，[sqrthree](https://github.com/sqrthree)
 
 源地址：https://github.com/jwasham/google-interview-university
