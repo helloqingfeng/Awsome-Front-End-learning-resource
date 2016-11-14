@@ -1741,7 +1741,7 @@ Javascript数据推送
 
 
 ```
-open('GET','demo.php?rand=+Math.random()',true);//
+open('GET','demo.php?rand='+Math.random(),true);//
 ```
 
 
