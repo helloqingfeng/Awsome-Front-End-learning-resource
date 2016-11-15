@@ -7,6 +7,9 @@
 **说明:** 整理有不当之处, 欢迎 [pr](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource/pulls) 或提出 [issue](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource/issues)。
 
 ## 更新日志：
+**20161115：**
+- 增加JavaScript 全栈工程师培训教程（作者：阮一峰）
+
 **20161013：**
 - 增加 Google面试宝典（作者：John Washam）
 
@@ -19,9 +22,6 @@
 **20160831：**
 - 增加前端学习路径
 
-**20160829：**
-- 增加100+ 超全的web开发工具和资源
-- 增加Web前端开发规范文档
 
 **关于我：** 微博: [@青丰与名月](http://weibo.com/helloqingfeng)
 
@@ -41,8 +41,13 @@
 
 源地址：https://zhuanlan.zhihu.com/p/21935921
 
+## [JavaScript 全栈工程师培训教程](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource/tree/master/30-jstraining)
+作者： 阮一峰 https://github.com/ruanyf
+
+源地址：https://github.com/ruanyf/jstraining
 
 ## [前端开发者手册](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource/tree/master/02-fedHandlebook-master)(学习前端的实践手册)
+
 作者：Pomy https://github.com/dwqs
 
 中文源地址：https://github.com/dwqs/fedHandlebook
