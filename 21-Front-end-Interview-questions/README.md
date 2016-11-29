@@ -1451,7 +1451,7 @@ Height = height(包含padding-top + padding-bottom + border-top + border-bottom)
 
 
 
-- IE支持`currentStyle`，FIrefox使用`getComputStyle`
+- IE支持`currentStyle`，Firefox使用`getComputedStyle`
 
 - IE  使用`innerText`，Firefox使用`textContent`
 
@@ -1741,7 +1741,7 @@ Javascript数据推送
 
 
 ```
-open('GET','demo.php?rand=+Math.random()',true);//
+open('GET','demo.php?rand='+Math.random(),true);//
 ```
 
 
