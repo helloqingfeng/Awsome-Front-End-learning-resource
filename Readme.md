@@ -176,6 +176,12 @@
 
 源地址：https://github.com/IonicChina/Mobile-front-end-tutorial
 
+## [前端回忆录](https://github.com/Wscats/Good-text-Share/blob/master)
+
+作者：Wscats https://github.com/wscats
+
+源地址：https://github.com/Wscats/Good-text-Share
+
 ## [前端开发规范手册](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource/tree/master/27-front-end-style-guide)
 作者：阿树 https://github.com/Aaaaaashu
 
