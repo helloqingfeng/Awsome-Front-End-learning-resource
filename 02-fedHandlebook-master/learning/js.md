@@ -1,4 +1,4 @@
-###JavaScript
+### JavaScript
 
 >JavaScript 是一种高级的, 动态的, 无类型的和解释型的编程语言, 它已经在 ECMAScript 语言规范中被标准化. 跟 HTML 和 CSS 一样, JavaScript 是 WWW 内容生成的第三种必不可少的技术; 大多数的网会使用Javascript, 并且 Javascript 被所有现在Web浏览器支持. JavaScript 基于原型和函数优先的特点, 使它成为多范型的语言, 支持面向对象的, 命令式的, 和函数式编程风格. JavaScript 能提供 API 来处理文本, 数组, 日期和正则表达式, 但不包括任何 I/O, 如网络, 存储或图形工具, 对这些的依赖取决于宿主环境中嵌入了什么. - wikipedia.org
 

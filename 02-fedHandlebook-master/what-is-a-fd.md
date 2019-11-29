@@ -8,14 +8,7 @@
 
 一般而言, 一个人可以通过学习 HTML,CSS,JavaScript进入前端开发领域, 这些代码运行在 [Web浏览器](https://en.wikipedia.org/wiki/Web_browser), [无壳为浏览器](https://en.wikipedia.org/wiki/Headless_browser), Web视图之中, 或用于编译本地运行环境的输入. 后文将详细介绍这四个运行场景.
 
-Web浏览器是用于检索, 呈现和遍历万维网(WWW)信息的软件. 一般而言, 浏览器可以运行在台式机, 笔记本电脑, 平板电脑或手机. 但是近来, 几乎在任何事物上都能够发现浏览器(如: 冰箱上, 汽车里等).
 
-最普遍的Web浏览器如下:
-
-* [Chrome](http://www.google.com/chrome/)
-* [Internet Explorer](http://dev.modern.ie/)
-* [Firefox](https://www.mozilla.org/firefox/)
-* [Safari](http://www.apple.com/safari/)
 
 无壳浏览器是指没有图形用户界面的Web浏览器, 可以通过命令行接口控制达到网页自动化的目的(如: 功能测试, 单元测试等). 把无壳浏览器当做可以从命令行运行的浏览器, 它依然可以检索和遍历网页.
 
