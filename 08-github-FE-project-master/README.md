@@ -535,7 +535,7 @@ HTML5
   [73]: https://github.com/peachananr/onepage-scroll
   [74]: http://www.htmleaf.com/Demo/201412311045.html
   [75]: https://github.com/fhopeman/justlazy
-  [76]: https://github.com/stefanbuck/awesome-browser-extensions-for-github
+  [76]: https://stefanbuck.com/awesome-browser-extensions-for-github
   [77]: https://github.com/Polymer/polymer
   [78]: https://github.com/bartaz/impress.js
   [79]: http://bartaz.github.io/impress.js/#/bored
