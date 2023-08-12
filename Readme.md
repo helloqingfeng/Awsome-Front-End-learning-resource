@@ -196,8 +196,6 @@
 
 源地址：https://github.com/hzlzh/Front-End-Standards
 
-阅读地址：http://front-end-standards.com/
-
 <br>
 
 # 前端求职面试
