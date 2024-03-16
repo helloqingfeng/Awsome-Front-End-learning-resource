@@ -94,6 +94,8 @@
 * [regexper](http://regexper.com/)
 * [debuggex](https://www.debuggex.com)
 * [RegExr](http://regexr.com/)
+* [cyrilex](https://extendsclass.com/regex-tester.html)
+* [pyrexp](https://pythonium.net/regex)
 
 **编码规范:**
 
