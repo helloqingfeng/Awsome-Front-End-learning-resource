@@ -80,6 +80,12 @@
 
 阅读地址：http://www.fefork.com/fetool
 
+## [UIZZE：AI 编程代理的 UI 参考与质量工作流](https://github.com/uizze/uizze)
+
+帮助 Codex、Claude Code、Cursor、GitHub Copilot 等 AI 编程代理减少模板化界面、空壳控件和缺失状态。免费 MIT `anti-ui-slop` Skill 会在实现前要求明确页面任务、层级和必需状态，并在发布前进行质量检查；完整 UIZZE 还可以从 800,000+ 个真实 Web 和 iOS 界面中搜索参考。
+
+安装：`npx skills add https://uizze.com --skill anti-ui-slop`（免费 Skill 无需账号）
+
 ## [100+ 超全的web开发工具和资源](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource/tree/master/24-100+Web-Development-Tools-and-Resources)
 
 译者：稀土区 https://xituqu.com/
