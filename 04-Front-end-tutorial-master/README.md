@@ -376,6 +376,7 @@ svg mdn参考|https://developer.mozilla.org/en-US/docs/Web/SVG
 svg 导出 canvas|https://github.com/gabelerner/canvg
 svg 导出 png|https://github.com/exupero/saveSvgAsPng
 ai-to-svg|http://www.zamzar.com/convert/ai-to-svg
+免费在线工具集|https://practicalwebtools.com/
 localStorage 库|https://github.com/machao/localStorage
 
 ## __图表类__
